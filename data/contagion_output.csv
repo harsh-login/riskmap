@@ -1,0 +1,480 @@
+msi_score,stress_tier,merchant_name,city,region,category,franchise_group,avg_monthly_volume,avg_ticket,refund_rate,decline_rate,cardholder_count,merchant_id,source_id,contagion_risk_score,propagation_depth,flagged_at,est_chargeback_60d
+80.48,Critical,"Watson, Anderson and Brown",Charlotte,South,Healthcare,,2,25.47,0.5,0.0,2,324,324,100.0,0,2026-06-13,0.33
+95.92,Critical,Russell Group,New York,Northeast,Healthcare,,2,18.69,0.5,0.5,2,19,19,100.0,0,2026-06-13,0.29
+70.0,Elevated,Valentine-Holland,New York,Northeast,Healthcare,,1,20.96,0.0,0.0,1,217,19,28.78,1,2026-06-13,0.03
+12.28,Stable,Brennan-Johnson,New York,Northeast,Healthcare,George Group Group,6,39.14,0.0,0.1667,6,241,19,28.78,1,2026-06-13,0.35
+24.28,Stable,Mendez and Sons,New York,Northeast,Healthcare,,2,27.85,0.0,0.0,2,434,19,28.78,1,2026-06-13,0.05
+0.0,Stable,Hancock and Sons,New York,Northeast,Healthcare,"Martin, Rose and Obrien Group",6,54.04,0.0,0.0,6,59,19,28.78,1,2026-06-13,0.0
+50.19,Watch,Garcia LLC,New York,Northeast,Healthcare,"Gardner, Robinson and Lawrence Group",2,152.44,0.0,0.0,2,139,19,28.78,1,2026-06-13,0.61
+3.07,Stable,Diaz-Ball,Fort Worth,South,Fuel,Hickman Ltd Group,4,31.39,0.0,0.0,4,406,19,25.9,2,2026-06-13,0.02
+10.23,Stable,"Martinez, Richardson and Curry",Jacksonville,South,Fuel,Hickman Ltd Group,5,36.94,0.0,0.0,5,276,19,25.9,2,2026-06-13,0.09
+20.74,Stable,Nolan-Flynn,San Francisco,West,Entertainment,"Henderson, Ramirez and Lewis Group",4,36.58,0.0,0.25,4,55,19,25.9,2,2026-06-13,0.12
+18.93,Stable,Gilbert PLC,San Diego,West,Retail,"Henderson, Ramirez and Lewis Group",3,30.36,0.3333,0.0,3,379,19,25.9,2,2026-06-13,0.05
+4.06,Stable,"Andrews, Higgins and Carter",Washington,Northeast,Grocery,"Henderson, Ramirez and Lewis Group",3,36.3,0.0,0.0,3,433,19,25.9,2,2026-06-13,0.01
+2.43,Stable,"Bentley, Byrd and Orr",Chicago,Midwest,Professional Services,Smith-Bowen Group,3,58.29,0.0,0.0,3,83,19,25.9,2,2026-06-13,0.01
+7.5,Stable,"Jacobson, Singleton and King",San Jose,West,Professional Services,"Rodriguez, Figueroa and Sanchez Group",4,56.1,0.0,0.25,4,495,19,25.9,2,2026-06-13,0.07
+13.35,Stable,"Marks, Cook and Aguilar",San Antonio,South,Hospitality,"Rodriguez, Figueroa and Sanchez Group",7,28.16,0.0,0.1429,7,391,19,25.9,2,2026-06-13,0.18
+45.82,Watch,"Beltran, Lozano and Mcgee",Dallas,South,Hospitality,"Rodriguez, Figueroa and Sanchez Group",2,10.55,0.0,0.0,2,261,19,25.9,2,2026-06-13,0.02
+6.0,Stable,Herman-Walker,San Antonio,South,Entertainment,Hickman Ltd Group,5,38.22,0.2,0.0,5,280,19,25.9,2,2026-06-13,0.06
+54.37,Watch,Schmitt PLC,Charlotte,South,Electronics,"Walter, Edwards and Rios Group",3,64.12,0.0,0.3333,3,327,19,25.9,2,2026-06-13,0.31
+70.0,Elevated,Garcia-Lozano,Charlotte,South,Healthcare,"Ferrell, Rice and Maddox Group",1,57.85,0.0,1.0,1,235,19,25.9,2,2026-06-13,0.04
+6.54,Stable,Young-Martinez,Phoenix,Southwest,Hospitality,George Group Group,6,35.34,0.0,0.0,6,429,19,25.9,2,2026-06-13,0.08
+14.64,Stable,King-Smith,Phoenix,Southwest,Entertainment,Anderson Group Group,4,37.33,0.0,0.0,4,439,19,25.9,2,2026-06-13,0.09
+5.0,Stable,Lee-Davis,Columbus,Midwest,Retail,Wilkerson-Day Group,3,41.5,0.0,0.0,3,9,19,25.9,2,2026-06-13,0.02
+16.46,Stable,"Newton, Moore and Perry",Phoenix,Southwest,Healthcare,"Gardner, Robinson and Lawrence Group",3,28.05,0.0,0.0,3,287,19,25.9,2,2026-06-13,0.04
+13.45,Stable,Peterson-Beard,Washington,Northeast,Electronics,"Gardner, Robinson and Lawrence Group",3,66.5,0.3333,0.0,3,153,19,25.9,2,2026-06-13,0.08
+6.92,Stable,"Sanchez, Wheeler and Harvey",Washington,Northeast,Hospitality,"Gardner, Robinson and Lawrence Group",4,44.4,0.0,0.0,4,31,19,25.9,2,2026-06-13,0.05
+63.44,Elevated,Cortez LLC,Dallas,South,Healthcare,"Rodriguez, Figueroa and Sanchez Group",2,33.82,0.0,0.0,2,80,19,25.9,2,2026-06-13,0.09
+16.31,Stable,"Conner, Li and Santiago",Columbus,Midwest,Hospitality,Wilkerson-Day Group,3,31.96,0.0,0.3333,3,395,19,25.9,2,2026-06-13,0.05
+30.0,Stable,Sheppard LLC,Dallas,South,Healthcare,Wilkerson-Day Group,4,46.39,0.0,0.0,4,173,19,25.9,2,2026-06-13,0.22
+18.79,Stable,"Wood, Ramos and Sampson",Denver,Southwest,Professional Services,Wilkerson-Day Group,3,63.53,0.0,0.0,3,290,19,25.9,2,2026-06-13,0.11
+7.4,Stable,Sanders-Espinoza,Seattle,West,Restaurant,Wilkerson-Day Group,8,42.96,0.0,0.0,8,137,19,25.9,2,2026-06-13,0.2
+64.32,Elevated,Wells Inc,San Diego,West,Professional Services,Wilkerson-Day Group,1,23.15,0.0,0.0,1,131,19,25.9,2,2026-06-13,0.01
+4.17,Stable,Short-Garcia,Denver,Southwest,Entertainment,Hickman Ltd Group,3,67.4,0.0,0.0,3,143,19,25.9,2,2026-06-13,0.03
+50.35,Watch,"Duran, Obrien and Gibbs",Austin,South,Entertainment,Hickman Ltd Group,2,37.17,0.0,0.0,2,178,19,25.9,2,2026-06-13,0.07
+4.29,Stable,Marshall-Petersen,Charlotte,South,Healthcare,,7,50.12,0.1429,0.1429,7,147,324,24.14,1,2026-06-13,0.21
+54.28,Watch,King-Miller,Charlotte,South,Healthcare,Gray-Mayo Group,2,51.12,0.0,0.0,2,126,324,24.14,1,2026-06-13,0.22
+50.19,Watch,"Hernandez, Martinez and Weber",Charlotte,South,Healthcare,Davis and Sons Group,2,156.51,0.0,0.0,2,313,324,24.14,1,2026-06-13,0.63
+7.83,Stable,Davis PLC,San Jose,West,Electronics,"Ferrell, Rice and Maddox Group",7,56.04,0.0,0.0,7,338,324,21.73,2,2026-06-13,0.22
+23.21,Stable,Holmes-Mcintyre,Fort Worth,South,Travel,Morales-Jones Group,4,36.09,0.0,0.0,4,472,324,21.73,2,2026-06-13,0.13
+21.43,Stable,"Alvarez, Joseph and West",Seattle,West,Professional Services,Gray-Mayo Group,3,76.23,0.0,0.3333,3,157,324,21.73,2,2026-06-13,0.15
+54.92,Watch,Johnston-Odonnell,Seattle,West,Healthcare,"Ferrell, Rice and Maddox Group",3,29.22,0.0,0.0,3,136,324,21.73,2,2026-06-13,0.14
+70.0,Elevated,Figueroa PLC,Washington,Northeast,Restaurant,"Baker, Mason and White Group",1,4.36,0.0,0.0,1,51,324,21.73,2,2026-06-13,0.0
+6.02,Stable,"Adams, Christian and Rivas",Denver,Southwest,Fuel,Frazier Inc Group,5,46.93,0.0,0.2,5,148,324,21.73,2,2026-06-13,0.07
+15.0,Stable,Ortiz Ltd,Seattle,West,Electronics,Perez Inc Group,5,21.3,0.0,0.0,5,185,324,21.73,2,2026-06-13,0.08
+54.28,Watch,Morrison Ltd,Austin,South,Healthcare,Dudley Group Group,2,12.69,0.0,0.0,2,369,324,21.73,2,2026-06-13,0.03
+55.0,Watch,White Ltd,Seattle,West,Retail,Davis and Sons Group,1,36.74,0.0,0.0,1,404,324,21.73,2,2026-06-13,0.02
+44.32,Watch,"Williams, Mccoy and Cook",Fort Worth,South,Hospitality,Frazier Inc Group,2,46.39,0.0,0.0,2,388,324,21.73,2,2026-06-13,0.08
+17.06,Stable,"Suarez, Shields and Hill",Indianapolis,Midwest,Travel,"Walter, Edwards and Rios Group",3,47.42,0.0,0.0,3,222,324,21.73,2,2026-06-13,0.07
+28.18,Stable,Baird-Sanchez,Dallas,South,Travel,"Walter, Edwards and Rios Group",4,42.97,0.25,0.0,4,220,324,21.73,2,2026-06-13,0.19
+21.46,Stable,Williams-Berg,San Antonio,South,Healthcare,Gray-Mayo Group,3,24.22,0.0,0.0,3,460,324,21.73,2,2026-06-13,0.05
+3.33,Stable,"Edwards, Baker and Anderson",Indianapolis,Midwest,Restaurant,Dudley Group Group,6,37.42,0.0,0.1667,6,34,324,21.73,2,2026-06-13,0.04
+39.47,Stable,"Downs, Morris and Maddox",New York,Northeast,Fuel,Smith-Bowen Group,4,25.56,0.0,0.0,4,373,19,14.39,1,2026-06-13,0.32
+53.32,Watch,"Morris, Thompson and Williams",New York,Northeast,Hospitality,"Arroyo, Miller and Tucker Group",2,18.06,0.0,0.5,2,304,19,14.39,1,2026-06-13,0.08
+9.38,Stable,Jimenez Ltd,New York,Northeast,Grocery,,2,106.15,0.0,0.0,2,218,19,14.39,1,2026-06-13,0.08
+0.0,Stable,Navarro-Munoz,New York,Northeast,Hospitality,Anderson Group Group,6,112.42,0.0,0.0,6,196,19,14.39,1,2026-06-13,0.0
+0.0,Stable,"Clark, Guerrero and Moore",New York,Northeast,Professional Services,,8,42.44,0.0,0.0,8,183,19,14.39,1,2026-06-13,0.0
+55.0,Watch,Johnson-Rogers,New York,Northeast,Grocery,,1,57.13,0.0,0.0,1,118,19,14.39,1,2026-06-13,0.06
+10.12,Stable,Riggs PLC,New York,Northeast,Restaurant,,7,38.25,0.0,0.0,7,92,19,14.39,1,2026-06-13,0.38
+0.0,Stable,Martinez-Dudley,New York,Northeast,Electronics,,4,60.21,0.0,0.0,4,213,19,14.39,1,2026-06-13,0.0
+0.0,Stable,Bennett Group,New York,Northeast,Hospitality,"Ferrell, Rice and Maddox Group",5,43.01,0.0,0.0,5,339,19,14.39,1,2026-06-13,0.0
+0.7,Stable,Gonzalez Group,New York,Northeast,Travel,"Walter, Edwards and Rios Group",3,26.46,0.0,0.0,3,64,19,14.39,1,2026-06-13,0.0
+21.82,Stable,Newton and Sons,New York,Northeast,Electronics,"Flowers, Martin and Kelly Group",2,112.81,0.0,0.0,2,44,19,14.39,1,2026-06-13,0.2
+68.29,Elevated,Jones Inc,New York,Northeast,Professional Services,,2,18.3,0.0,0.0,2,5,19,14.39,1,2026-06-13,0.1
+30.82,Stable,Ortiz-Morgan,New York,Northeast,Hospitality,,2,38.87,0.0,0.0,2,387,19,14.39,1,2026-06-13,0.1
+59.78,Watch,"Huang, Cole and Pacheco",New York,Northeast,Fuel,,2,34.87,0.0,0.5,2,381,19,14.39,1,2026-06-13,0.17
+43.89,Watch,Ross LLC,New York,Northeast,Hospitality,,2,42.91,0.0,0.0,2,67,19,14.39,1,2026-06-13,0.15
+0.0,Stable,"Harvey, Davis and Crane",New York,Northeast,Electronics,,9,69.6,0.0,0.0,9,89,19,14.39,1,2026-06-13,0.0
+15.2,Stable,"Rivera, Johnson and Wiley",New York,Northeast,Electronics,,6,42.99,0.1667,0.1667,6,70,19,14.39,1,2026-06-13,0.47
+55.0,Watch,Walker-Jones,Seattle,West,Hospitality,Williams and Sons Group,1,70.57,0.0,0.0,1,128,19,12.95,2,2026-06-13,0.04
+53.32,Watch,King-York,Seattle,West,Hospitality,"Arroyo, Miller and Tucker Group",2,102.47,0.0,0.0,2,390,19,12.95,2,2026-06-13,0.22
+8.55,Stable,Brown-Shaw,San Jose,West,Grocery,,4,28.66,0.25,0.0,4,419,19,12.95,2,2026-06-13,0.04
+55.0,Watch,Williams-Brown,Jacksonville,South,Hospitality,,1,125.39,0.0,0.0,1,169,19,12.95,2,2026-06-13,0.07
+22.14,Stable,Stein-Silva,Fort Worth,South,Healthcare,,2,86.23,0.0,0.0,2,112,19,12.95,2,2026-06-13,0.08
+33.97,Stable,"Mullen, Brewer and Hernandez",Jacksonville,South,Hospitality,,4,76.57,0.0,0.25,4,367,19,12.95,2,2026-06-13,0.42
+1.25,Stable,Parker Ltd,San Antonio,South,Restaurant,Anderson Group Group,7,46.89,0.0,0.0,7,486,19,12.95,2,2026-06-13,0.03
+0.0,Stable,Cooper Ltd,Philadelphia,Northeast,Retail,,4,53.08,0.0,0.0,4,440,19,12.95,2,2026-06-13,0.0
+1.97,Stable,"Thomas, Lee and Greene",Philadelphia,Northeast,Retail,,6,34.67,0.0,0.0,6,221,19,12.95,2,2026-06-13,0.02
+0.0,Stable,"Mendoza, Jenkins and Ortiz",Fort Worth,South,Healthcare,,6,57.28,0.0,0.0,6,487,19,12.95,2,2026-06-13,0.0
+5.43,Stable,"Ramsey, Whitney and Coffey",San Antonio,South,Restaurant,,4,42.71,0.0,0.0,4,274,19,12.95,2,2026-06-13,0.04
+32.36,Stable,Jones-Young,Indianapolis,Midwest,Professional Services,Galloway-Wyatt Group,2,21.01,0.0,0.0,2,6,19,12.95,2,2026-06-13,0.03
+2.43,Stable,King-Martinez,Indianapolis,Midwest,Professional Services,,3,61.96,0.0,0.0,3,162,19,12.95,2,2026-06-13,0.01
+47.5,Watch,Stafford Inc,Los Angeles,West,Travel,Davis and Sons Group,1,7.82,0.0,0.0,1,96,19,12.95,2,2026-06-13,0.0
+70.0,Elevated,Wilkerson-Arias,Los Angeles,West,Travel,,1,12.59,0.0,0.0,1,418,19,12.95,2,2026-06-13,0.01
+42.43,Watch,"Miller, Murphy and Craig",San Antonio,South,Restaurant,"Adams, Zuniga and Wong Group",3,46.31,0.0,0.0,3,239,19,12.95,2,2026-06-13,0.18
+45.79,Watch,"Burns, Hernandez and Ryan",San Diego,West,Restaurant,Carlson-Cruz Group,2,23.84,0.0,0.0,2,226,19,12.95,2,2026-06-13,0.04
+53.29,Watch,"Hensley, Powell and David",San Antonio,South,Restaurant,Baker and Sons Group,2,50.92,0.0,0.0,2,30,19,12.95,2,2026-06-13,0.11
+0.0,Stable,Jones Inc,Charlotte,South,Hospitality,,4,79.1,0.0,0.0,4,400,324,12.07,1,2026-06-13,0.0
+0.7,Stable,"Washington, Ryan and Cummings",Charlotte,South,Travel,"Mcclain, Miller and Henderson Group",3,58.42,0.0,0.0,3,7,324,12.07,1,2026-06-13,0.01
+36.49,Stable,Hicks-Hill,Charlotte,South,Hospitality,,3,29.54,0.0,0.3333,3,219,324,12.07,1,2026-06-13,0.19
+52.81,Watch,Perry-Davis,Charlotte,South,Travel,Perez Inc Group,2,60.93,0.0,0.0,2,319,324,12.07,1,2026-06-13,0.26
+27.52,Stable,Garcia-Smith,Charlotte,South,Entertainment,,4,41.27,0.0,0.25,4,171,324,12.07,1,2026-06-13,0.36
+2.29,Stable,"Barnett, Rogers and Snyder",Charlotte,South,Fuel,,7,51.96,0.1429,0.0,7,151,324,12.07,1,2026-06-13,0.12
+55.0,Watch,Harper and Sons,Charlotte,South,Travel,,1,53.47,0.0,0.0,1,403,324,12.07,1,2026-06-13,0.06
+45.81,Watch,Robertson-Hays,Charlotte,South,Entertainment,Dudley Group Group,1,25.77,0.0,0.0,1,448,324,12.07,1,2026-06-13,0.02
+55.0,Watch,Johnson-Wood,Charlotte,South,Retail,"Baker, Mason and White Group",1,24.26,0.0,0.0,1,377,324,12.07,1,2026-06-13,0.03
+5.0,Stable,Donovan-Perez,Charlotte,South,Hospitality,,6,36.35,0.0,0.1667,6,494,324,12.07,1,2026-06-13,0.13
+46.0,Watch,Marshall-Elliott,Charlotte,South,Grocery,"Reid, Ferguson and Sanchez Group",1,64.85,0.0,0.0,1,371,324,12.07,1,2026-06-13,0.06
+53.29,Watch,"Avery, Horton and Fernandez",Charlotte,South,Restaurant,Davis and Sons Group,2,49.87,0.0,0.0,2,286,324,12.07,1,2026-06-13,0.21
+4.1,Stable,Donovan-Harris,Charlotte,South,Grocery,Morales-Jones Group,4,30.83,0.0,0.0,4,33,324,12.07,1,2026-06-13,0.04
+68.29,Elevated,Johnson-Doyle,Chicago,Midwest,Restaurant,Allen-Allen Group,2,49.18,0.0,0.0,2,60,324,10.86,2,2026-06-13,0.13
+70.0,Elevated,"Rodriguez, Brennan and Garrison",Chicago,Midwest,Restaurant,Gray-Mayo Group,1,23.15,0.0,0.0,1,63,324,10.86,2,2026-06-13,0.02
+12.43,Stable,"Holmes, Williams and Wright",Houston,South,Professional Services,,3,85.36,0.0,0.3333,3,98,324,10.86,2,2026-06-13,0.1
+34.99,Stable,"Farmer, Dorsey and Bell",Philadelphia,Northeast,Hospitality,"Watts, Robinson and Nguyen Group",3,57.53,0.3333,0.0,3,335,324,10.86,2,2026-06-13,0.18
+12.64,Stable,Terry-Martinez,Houston,South,Professional Services,,6,47.34,0.0,0.0,6,170,324,10.86,2,2026-06-13,0.22
+33.8,Stable,Roberts-Landry,Chicago,Midwest,Restaurant,,3,23.42,0.0,0.0,3,205,324,10.86,2,2026-06-13,0.07
+11.44,Stable,"Pugh, Henderson and Moon",Chicago,Midwest,Restaurant,,3,70.57,0.0,0.0,3,326,324,10.86,2,2026-06-13,0.07
+70.0,Elevated,Moon-White,Chicago,Midwest,Restaurant,,1,39.67,0.0,0.0,1,201,324,10.86,2,2026-06-13,0.03
+40.86,Watch,"Huber, Hill and Weber",Chicago,Midwest,Restaurant,"Dyer, Potter and Mack Group",3,23.16,0.0,0.0,3,496,324,10.86,2,2026-06-13,0.09
+55.0,Watch,Ruiz Ltd,Chicago,Midwest,Restaurant,,1,51.58,0.0,0.0,1,200,324,10.86,2,2026-06-13,0.03
+0.0,Stable,Bryant Group,Chicago,Midwest,Restaurant,,4,51.87,0.0,0.0,4,99,324,10.86,2,2026-06-13,0.0
+70.0,Elevated,"Garcia, Martin and Jenkins",Chicago,Midwest,Restaurant,,1,8.36,0.0,0.0,1,204,324,10.86,2,2026-06-13,0.01
+55.0,Watch,Bailey-Cook,Chicago,Midwest,Restaurant,,1,53.36,0.0,0.0,1,203,324,10.86,2,2026-06-13,0.03
+70.0,Elevated,Hernandez-Jones,Phoenix,Southwest,Restaurant,,1,32.63,0.0,0.0,1,374,324,10.86,2,2026-06-13,0.02
+9.47,Stable,Schmidt PLC,Houston,South,Professional Services,,8,31.68,0.0,0.0,8,248,324,10.86,2,2026-06-13,0.19
+0.0,Stable,Conner and Sons,San Francisco,West,Retail,Williams and Sons Group,4,25.02,0.0,0.0,4,482,324,10.86,2,2026-06-13,0.0
+64.2,Elevated,"Joyce, Wilson and Lam",Phoenix,Southwest,Restaurant,,2,14.59,0.0,0.0,2,74,324,10.86,2,2026-06-13,0.04
+7.76,Stable,"Stanley, Tucker and Lee",Columbus,Midwest,Fuel,Williams and Sons Group,2,129.58,0.0,0.0,2,24,19,10.36,3,2026-06-13,0.02
+7.76,Stable,"Sullivan, Palmer and Brady",Washington,Northeast,Fuel,Davis and Sons Group,2,64.0,0.0,0.0,2,463,19,10.36,3,2026-06-13,0.01
+0.0,Stable,Young Ltd,Chicago,Midwest,Fuel,"Reid, Ferguson and Sanchez Group",4,39.82,0.0,0.0,4,242,19,10.36,3,2026-06-13,0.0
+53.97,Watch,Armstrong-Andrews,Phoenix,Southwest,Electronics,Rodriguez-Graham Group,2,120.29,0.0,0.0,2,258,19,10.36,3,2026-06-13,0.1
+17.34,Stable,Hoover-Campbell,Austin,South,Grocery,"Harris, Collins and Carney Group",4,33.24,0.0,0.25,4,224,324,8.69,3,2026-06-13,0.04
+79.74,Elevated,"Gregory, Kim and Martinez",Washington,Northeast,Grocery,George Group Group,1,25.38,0.0,1.0,1,465,324,8.69,3,2026-06-13,0.01
+55.0,Watch,Chandler-Edwards,Indianapolis,Midwest,Entertainment,Williams and Sons Group,1,41.18,0.0,0.0,1,73,324,8.69,3,2026-06-13,0.01
+34.98,Stable,Green-Wright,Indianapolis,Midwest,Fuel,FastFuel Group,1,55.55,0.0,0.0,1,104,324,8.69,3,2026-06-13,0.01
+70.0,Elevated,Hughes Inc,Austin,South,Fuel,Spence PLC Group,1,7.0,0.0,0.0,1,420,324,8.69,3,2026-06-13,0.0
+2.47,Stable,"Ramirez, Strickland and Washington",Washington,Northeast,Fuel,FastFuel Group,4,61.02,0.0,0.0,4,105,324,8.69,3,2026-06-13,0.01
+70.0,Elevated,"Mitchell, Nelson and Flores",Indianapolis,Midwest,Fuel,FastFuel Group,1,11.75,0.0,0.0,1,107,324,8.69,3,2026-06-13,0.0
+10.0,Stable,"Lee, Horton and Snyder",Austin,South,Retail,"Harris, Collins and Carney Group",2,82.18,0.0,0.0,2,94,324,8.69,3,2026-06-13,0.01
+45.38,Watch,Cole-Palmer,Indianapolis,Midwest,Grocery,Williams and Sons Group,2,60.5,0.0,0.0,2,416,324,8.69,3,2026-06-13,0.04
+61.0,Elevated,"Lopez, Jacobs and Mason",Seattle,West,Retail,,2,53.34,0.0,0.5,2,382,19,6.47,2,2026-06-13,0.13
+69.39,Elevated,Gutierrez Group,Jacksonville,South,Fuel,"Ferrell, Rice and Maddox Group",1,14.31,0.0,0.0,1,318,19,6.47,2,2026-06-13,0.01
+24.76,Stable,Roberts-Sullivan,Seattle,West,Electronics,,2,24.07,0.0,0.0,2,358,19,6.47,2,2026-06-13,0.02
+68.29,Elevated,"Mckinney, Graves and Thompson",Seattle,West,Professional Services,,2,13.68,0.0,0.0,2,480,19,6.47,2,2026-06-13,0.04
+3.68,Stable,Johnson-Spencer,Seattle,West,Fuel,"Romero, Gonzalez and Brooks Group",3,30.82,0.0,0.0,3,483,19,6.47,2,2026-06-13,0.01
+55.0,Watch,Humphrey PLC,Seattle,West,Retail,Williams and Sons Group,1,49.92,0.0,0.0,1,490,19,6.47,2,2026-06-13,0.03
+3.66,Stable,"Alvarado, Miller and Patterson",Seattle,West,Professional Services,,5,40.74,0.0,0.0,5,122,19,6.47,2,2026-06-13,0.04
+10.99,Stable,"Gould, Marshall and Scott",Seattle,West,Healthcare,,5,33.23,0.0,0.0,5,132,19,6.47,2,2026-06-13,0.09
+0.0,Stable,Li-Thompson,Seattle,West,Entertainment,,5,103.36,0.0,0.0,5,443,19,6.47,2,2026-06-13,0.0
+14.48,Stable,Gibson-Morris,Indianapolis,Midwest,Electronics,,4,35.37,0.0,0.0,4,228,19,6.47,2,2026-06-13,0.08
+4.68,Stable,Fernandez and Sons,Fort Worth,South,Travel,,3,35.7,0.0,0.0,3,301,19,6.47,2,2026-06-13,0.02
+69.15,Elevated,Harvey PLC,Fort Worth,South,Retail,,2,44.29,0.0,0.0,2,279,19,6.47,2,2026-06-13,0.12
+25.95,Stable,Richards-Carson,Fort Worth,South,Retail,,5,40.31,0.0,0.4,5,277,19,6.47,2,2026-06-13,0.26
+70.0,Elevated,Wilson-Jones,Fort Worth,South,Grocery,,1,15.93,0.0,0.0,1,174,19,6.47,2,2026-06-13,0.01
+18.0,Stable,"Wood, Tran and Cooper",Fort Worth,South,Hospitality,Anderson Group Group,4,66.91,0.0,0.0,4,160,19,6.47,2,2026-06-13,0.19
+0.0,Stable,Tran Inc,San Jose,West,Restaurant,,5,56.44,0.0,0.0,5,215,19,6.47,2,2026-06-13,0.0
+21.85,Stable,Jackson-Wallace,Los Angeles,West,Healthcare,Williams and Sons Group,4,28.05,0.0,0.0,4,459,19,6.47,2,2026-06-13,0.1
+34.58,Stable,Reyes-Bradley,Los Angeles,West,Restaurant,,3,55.98,0.0,0.0,3,467,19,6.47,2,2026-06-13,0.17
+68.97,Elevated,Robinson-Brock,Seattle,West,Electronics,,2,17.19,0.0,0.0,2,97,19,6.47,2,2026-06-13,0.05
+8.95,Stable,Wright and Sons,Seattle,West,Professional Services,,5,30.93,0.0,0.0,5,13,19,6.47,2,2026-06-13,0.07
+58.56,Watch,"Schmidt, Hansen and Stewart",Indianapolis,Midwest,Fuel,FastFuel Group,2,28.97,0.0,0.0,2,100,19,6.47,2,2026-06-13,0.07
+0.0,Stable,Jones-Lin,Fort Worth,South,Entertainment,,5,50.18,0.0,0.0,5,378,19,6.47,2,2026-06-13,0.0
+70.0,Elevated,"Reyes, Chase and Jenkins",Seattle,West,Grocery,,1,11.84,0.0,0.0,1,230,19,6.47,2,2026-06-13,0.01
+30.26,Stable,"Pollard, Simpson and Johnson",Seattle,West,Fuel,,2,57.07,0.0,0.0,2,233,19,6.47,2,2026-06-13,0.07
+9.79,Stable,Davis PLC,Seattle,West,Entertainment,,4,27.88,0.0,0.0,4,284,19,6.47,2,2026-06-13,0.04
+20.95,Stable,Frank-Bradley,Seattle,West,Retail,Allen-Allen Group,2,32.73,0.0,0.0,2,341,19,6.47,2,2026-06-13,0.03
+28.53,Stable,Graham Group,Seattle,West,Restaurant,,2,39.95,0.0,0.0,2,355,19,6.47,2,2026-06-13,0.05
+47.22,Watch,"Wilson, Pena and Rich",Seattle,West,Retail,,2,32.86,0.5,0.0,2,316,19,6.47,2,2026-06-13,0.06
+4.06,Stable,"Gallegos, Adams and White",Seattle,West,Grocery,"Arroyo, Miller and Tucker Group",3,31.81,0.0,0.0,3,334,19,6.47,2,2026-06-13,0.01
+5.62,Stable,Reid-Poole,Los Angeles,West,Electronics,Frazier Inc Group,5,72.16,0.0,0.0,5,144,19,6.47,2,2026-06-13,0.1
+10.73,Stable,Ramirez Group,Los Angeles,West,Retail,Baker and Sons Group,7,49.97,0.0,0.1429,7,149,19,6.47,2,2026-06-13,0.26
+4.17,Stable,Christensen PLC,Los Angeles,West,Entertainment,,3,40.11,0.0,0.0,3,150,19,6.47,2,2026-06-13,0.02
+0.0,Stable,"Harrison, Johnson and Roberts",Los Angeles,West,Electronics,,6,42.81,0.0,0.0,6,186,19,6.47,2,2026-06-13,0.0
+22.86,Stable,"Ferguson, Shaw and Jackson",San Jose,West,Retail,Abbott-Munoz Group,2,65.25,0.0,0.0,2,497,19,6.47,2,2026-06-13,0.06
+43.76,Watch,Rasmussen LLC,San Jose,West,Fuel,,2,59.42,0.0,0.0,2,68,19,6.47,2,2026-06-13,0.1
+0.0,Stable,Davis Group,Los Angeles,West,Restaurant,Dudley Group Group,5,36.87,0.0,0.0,5,48,19,6.47,2,2026-06-13,0.0
+56.52,Watch,Walker Ltd,Los Angeles,West,Professional Services,,2,20.38,0.0,0.0,2,66,19,6.47,2,2026-06-13,0.05
+55.0,Watch,Bright-Francis,Philadelphia,Northeast,Hospitality,,1,61.11,0.0,0.0,1,243,19,6.47,2,2026-06-13,0.03
+53.29,Watch,"Johnson, Miller and King",San Jose,West,Restaurant,Arnold Ltd Group,2,17.31,0.0,0.0,2,206,19,6.47,2,2026-06-13,0.04
+20.0,Stable,Coffey-Phillips,San Antonio,South,Healthcare,,6,19.15,0.0,0.1667,6,271,19,6.47,2,2026-06-13,0.14
+9.39,Stable,Moore-Collins,San Antonio,South,Retail,,4,26.76,0.0,0.0,4,340,19,6.47,2,2026-06-13,0.04
+4.14,Stable,Graham Group,San Antonio,South,Hospitality,,3,34.49,0.0,0.0,3,362,19,6.47,2,2026-06-13,0.01
+65.09,Elevated,Rangel LLC,San Antonio,South,Healthcare,"Ross, Robinson and Bright Group",2,24.12,0.0,0.0,2,392,19,6.47,2,2026-06-13,0.06
+50.06,Watch,Young-Allen,San Antonio,South,Grocery,,3,111.98,0.0,0.3333,3,408,19,6.47,2,2026-06-13,0.5
+0.0,Stable,"Taylor, Wright and Davidson",San Antonio,South,Professional Services,,4,52.98,0.0,0.0,4,413,19,6.47,2,2026-06-13,0.0
+7.35,Stable,"Brennan, Wallace and Benson",San Jose,West,Electronics,,6,37.37,0.0,0.0,6,245,19,6.47,2,2026-06-13,0.1
+13.9,Stable,Lopez-Martinez,San Jose,West,Travel,,4,41.73,0.0,0.0,4,293,19,6.47,2,2026-06-13,0.09
+18.0,Stable,Harris-Walters,San Jose,West,Travel,Galloway-Wyatt Group,4,89.05,0.0,0.0,4,46,19,6.47,2,2026-06-13,0.26
+5.0,Stable,Yu Inc,San Jose,West,Hospitality,"Hoffman, Baker and Richards Group",6,39.86,0.0,0.1667,6,28,19,6.47,2,2026-06-13,0.07
+17.28,Stable,Bishop-Goodwin,San Jose,West,Electronics,,4,37.05,0.0,0.25,4,407,19,6.47,2,2026-06-13,0.1
+0.0,Stable,Mckee-Lee,San Jose,West,Fuel,,7,40.24,0.0,0.0,7,409,19,6.47,2,2026-06-13,0.0
+10.89,Stable,Strickland-Shaw,San Jose,West,Electronics,,3,27.31,0.0,0.0,3,411,19,6.47,2,2026-06-13,0.03
+12.44,Stable,Hines-Berry,San Diego,West,Grocery,,4,27.13,0.0,0.0,4,469,19,6.47,2,2026-06-13,0.05
+14.22,Stable,Jackson-Meza,San Diego,West,Entertainment,,2,35.68,0.0,0.0,2,359,19,6.47,2,2026-06-13,0.02
+7.13,Stable,"Beard, Peters and Black",Fort Worth,South,Travel,,2,60.64,0.0,0.0,2,154,19,6.47,2,2026-06-13,0.02
+24.43,Stable,Hill Inc,Fort Worth,South,Fuel,FastFuel Group,2,57.47,0.5,0.5,2,106,19,6.47,2,2026-06-13,0.06
+22.5,Stable,"Mcdaniel, Bentley and Mclaughlin",Fort Worth,South,Retail,,4,20.3,0.0,0.25,4,77,19,6.47,2,2026-06-13,0.07
+70.0,Elevated,May-Ross,Fort Worth,South,Professional Services,Rodriguez-Graham Group,1,14.89,0.0,0.0,1,69,19,6.47,2,2026-06-13,0.01
+0.0,Stable,Walker-Flores,Philadelphia,Northeast,Professional Services,,4,124.98,0.0,0.0,4,421,19,6.47,2,2026-06-13,0.0
+6.38,Stable,Ford-Spencer,Philadelphia,Northeast,Healthcare,,4,31.8,0.0,0.0,4,380,19,6.47,2,2026-06-13,0.03
+53.72,Watch,Berry-Mckinney,Philadelphia,Northeast,Fuel,Dudley Group Group,2,31.93,0.0,0.0,2,357,19,6.47,2,2026-06-13,0.07
+47.61,Watch,Reed Inc,Philadelphia,Northeast,Professional Services,,2,28.15,0.0,0.0,2,346,19,6.47,2,2026-06-13,0.05
+62.52,Elevated,Parsons-Hall,Austin,South,Electronics,,2,50.98,0.0,0.0,2,262,19,6.47,2,2026-06-13,0.13
+0.0,Stable,"Brown, Romero and Collins",Austin,South,Retail,"Ross, Robinson and Bright Group",4,70.11,0.0,0.0,4,376,19,6.47,2,2026-06-13,0.0
+19.89,Stable,Collins Group,Austin,South,Travel,"Mcclure, Ward and Lee Group",4,26.32,0.0,0.0,4,394,19,6.47,2,2026-06-13,0.08
+25.45,Stable,Hancock Inc,San Antonio,South,Hospitality,,3,24.8,0.0,0.0,3,20,19,6.47,2,2026-06-13,0.06
+1.67,Stable,Williams PLC,San Antonio,South,Hospitality,,6,72.08,0.0,0.1667,6,17,19,6.47,2,2026-06-13,0.04
+7.38,Stable,"Johnston, Sanchez and Kennedy",San Antonio,South,Healthcare,,7,46.19,0.0,0.0,7,8,19,6.47,2,2026-06-13,0.17
+47.43,Watch,Walker LLC,San Antonio,South,Professional Services,Blair PLC Group,3,73.38,0.0,0.0,3,2,19,6.47,2,2026-06-13,0.31
+53.21,Watch,Dean-Jimenez,Austin,South,Healthcare,,3,26.95,0.0,0.0,3,210,19,6.47,2,2026-06-13,0.13
+5.43,Stable,Campbell-Clark,Austin,South,Hospitality,Perez Inc Group,6,30.13,0.0,0.0,6,45,19,6.47,2,2026-06-13,0.06
+15.0,Stable,"Turner, Riggs and Roman",Austin,South,Restaurant,"Gardner, Robinson and Lawrence Group",6,38.25,0.0,0.0,6,41,19,6.47,2,2026-06-13,0.21
+15.7,Stable,Novak and Sons,Austin,South,Travel,,3,26.63,0.0,0.0,3,18,19,6.47,2,2026-06-13,0.04
+60.33,Elevated,Powell LLC,Philadelphia,Northeast,Grocery,,2,30.68,0.0,0.0,2,12,19,6.47,2,2026-06-13,0.07
+55.0,Watch,Lyons-Bender,San Diego,West,Electronics,,1,167.76,0.0,0.0,1,194,19,6.47,2,2026-06-13,0.09
+56.75,Watch,Harrison-Alexander,San Diego,West,Electronics,,2,38.69,0.0,0.0,2,172,19,6.47,2,2026-06-13,0.09
+69.9,Elevated,Baxter Inc,San Diego,West,Healthcare,"Flowers, Martin and Kelly Group",1,17.44,0.0,0.0,1,15,19,6.47,2,2026-06-13,0.01
+52.96,Watch,Lam LLC,San Jose,West,Hospitality,,2,20.65,0.0,0.0,2,312,19,6.47,2,2026-06-13,0.04
+0.0,Stable,"Hall, Baker and Moody",Philadelphia,Northeast,Fuel,,5,34.85,0.0,0.0,5,188,19,6.47,2,2026-06-13,0.0
+3.24,Stable,Morgan-French,Philadelphia,Northeast,Healthcare,,4,48.72,0.0,0.0,4,223,19,6.47,2,2026-06-13,0.03
+12.71,Stable,Rowe Group,Philadelphia,Northeast,Travel,,2,40.72,0.0,0.0,2,179,19,6.47,2,2026-06-13,0.02
+55.0,Watch,Ramirez-Bean,Philadelphia,Northeast,Professional Services,Carlson-Cruz Group,1,143.98,0.0,0.0,1,125,19,6.47,2,2026-06-13,0.08
+3.92,Stable,"Wood, Hunter and Peterson",Indianapolis,Midwest,Healthcare,,3,56.95,0.0,0.0,3,142,19,6.47,2,2026-06-13,0.02
+3.98,Stable,Jackson-Lawson,Indianapolis,Midwest,Hospitality,"Reid, Ferguson and Sanchez Group",4,40.72,0.0,0.0,4,133,19,6.47,2,2026-06-13,0.03
+79.63,Elevated,Vargas Ltd,Indianapolis,Midwest,Restaurant,,2,20.7,0.0,0.5,2,138,19,6.47,2,2026-06-13,0.07
+52.76,Watch,"Diaz, Anderson and Browning",Indianapolis,Midwest,Fuel,,2,56.47,0.0,0.0,2,267,19,6.47,2,2026-06-13,0.12
+11.15,Stable,"Shaw, Nelson and Martin",Indianapolis,Midwest,Fuel,,6,31.02,0.0,0.0,6,270,19,6.47,2,2026-06-13,0.12
+70.0,Elevated,Torres Group,Indianapolis,Midwest,Travel,,1,11.6,0.0,0.0,1,283,19,6.47,2,2026-06-13,0.01
+18.31,Stable,"Winters, Newman and Brown",Indianapolis,Midwest,Hospitality,,5,37.58,0.0,0.2,5,292,19,6.47,2,2026-06-13,0.17
+0.0,Stable,Boone-Simmons,Indianapolis,Midwest,Hospitality,,4,50.26,0.0,0.0,4,310,19,6.47,2,2026-06-13,0.0
+3.45,Stable,"Austin, Day and Johnson",Indianapolis,Midwest,Electronics,,3,65.25,0.0,0.0,3,333,19,6.47,2,2026-06-13,0.02
+41.2,Watch,Williams Inc,Indianapolis,Midwest,Retail,"Mcclure, Ward and Lee Group",3,21.75,0.0,0.6667,3,246,19,6.47,2,2026-06-13,0.08
+15.0,Stable,"Becker, Taylor and Davis",Indianapolis,Midwest,Restaurant,,5,36.56,0.0,0.0,5,265,19,6.47,2,2026-06-13,0.14
+45.7,Watch,"Matthews, Saunders and Anderson",Seattle,West,Travel,Allen-Allen Group,3,46.86,0.0,0.0,3,491,19,6.47,2,2026-06-13,0.19
+27.09,Stable,Moore Group,Jacksonville,South,Healthcare,,3,29.55,0.0,0.0,3,329,19,6.47,2,2026-06-13,0.07
+0.42,Stable,"Estrada, Williams and Foster",Jacksonville,South,Fuel,,8,74.98,0.0,0.125,8,348,19,6.47,2,2026-06-13,0.02
+6.81,Stable,Wilson-Jimenez,Jacksonville,South,Retail,"Adams, Zuniga and Wong Group",5,57.26,0.2,0.0,5,351,19,6.47,2,2026-06-13,0.1
+0.0,Stable,"Henderson, Cox and Cox",Jacksonville,South,Healthcare,Smith-Bowen Group,5,33.47,0.0,0.0,5,397,19,6.47,2,2026-06-13,0.0
+18.35,Stable,Gilbert-Bullock,Jacksonville,South,Professional Services,"Gardner, Robinson and Lawrence Group",4,37.04,0.0,0.25,4,426,19,6.47,2,2026-06-13,0.11
+20.0,Stable,Rodriguez-Hall,Jacksonville,South,Retail,George Group Group,3,17.35,0.0,0.0,3,278,19,6.47,2,2026-06-13,0.03
+55.0,Watch,"Diaz, Gibbs and Smith",Jacksonville,South,Retail,,2,53.07,0.0,0.0,2,275,19,6.47,2,2026-06-13,0.12
+48.32,Watch,Hooper PLC,Jacksonville,South,Grocery,,2,36.82,0.0,0.0,2,120,19,6.47,2,2026-06-13,0.07
+61.0,Elevated,Gibson Ltd,Jacksonville,South,Travel,,1,5.49,0.0,0.0,1,93,19,6.47,2,2026-06-13,0.0
+22.14,Stable,Scott Ltd,Jacksonville,South,Healthcare,,2,38.46,0.0,0.0,2,75,19,6.47,2,2026-06-13,0.03
+55.0,Watch,White-Estes,Jacksonville,South,Travel,"Hoffman, Baker and Richards Group",1,61.08,0.0,0.0,1,71,19,6.47,2,2026-06-13,0.03
+18.11,Stable,Bell-Lane,San Diego,West,Retail,,4,33.36,0.25,0.0,4,328,19,6.47,2,2026-06-13,0.1
+22.5,Stable,Brock-Mcdonald,San Diego,West,Retail,,4,13.1,0.25,0.0,4,272,19,6.47,2,2026-06-13,0.05
+0.0,Stable,"Miller, Harrell and Reese",Indianapolis,Midwest,Hospitality,,5,60.04,0.0,0.0,5,363,19,6.47,2,2026-06-13,0.0
+20.36,Stable,Thompson Ltd,Indianapolis,Midwest,Electronics,,3,44.23,0.0,0.0,3,370,19,6.47,2,2026-06-13,0.08
+43.76,Watch,Garner-Thornton,San Diego,West,Fuel,,2,43.56,0.0,0.0,2,231,19,6.47,2,2026-06-13,0.08
+8.31,Stable,Bowen Group,San Diego,West,Retail,,6,39.01,0.0,0.1667,6,236,19,6.47,2,2026-06-13,0.12
+30.79,Stable,Johnston-Hines,San Diego,West,Professional Services,Williams and Sons Group,2,85.83,0.0,0.0,2,199,19,6.47,2,2026-06-13,0.11
+10.7,Stable,Jones Inc,Jacksonville,South,Entertainment,,6,56.64,0.0,0.0,6,29,19,6.47,2,2026-06-13,0.22
+50.5,Watch,"Phillips, Wagner and Jordan",Jacksonville,South,Grocery,,3,29.3,0.0,0.0,3,315,19,6.47,2,2026-06-13,0.13
+0.0,Stable,House-Glover,Jacksonville,South,Electronics,"Dyer, Potter and Mack Group",7,50.39,0.0,0.0,7,22,19,6.47,2,2026-06-13,0.0
+46.86,Watch,"Le, Lewis and Hayes",Jacksonville,South,Entertainment,,3,14.69,0.0,0.0,3,317,19,6.47,2,2026-06-13,0.06
+7.5,Stable,"Hale, Myers and Larson",Indianapolis,Midwest,Restaurant,,4,51.02,0.25,0.0,4,393,19,6.47,2,2026-06-13,0.06
+25.37,Stable,"Rosales, Mitchell and Hines",Indianapolis,Midwest,Travel,,3,48.57,0.0,0.0,3,415,19,6.47,2,2026-06-13,0.11
+4.34,Stable,Osborn-Cochran,Indianapolis,Midwest,Electronics,,4,62.48,0.0,0.0,4,477,19,6.47,2,2026-06-13,0.04
+0.0,Stable,Diaz Inc,Indianapolis,Midwest,Electronics,"Hoffman, Baker and Richards Group",5,40.04,0.0,0.0,5,78,19,6.47,2,2026-06-13,0.0
+0.0,Stable,Contreras-Mckinney,Los Angeles,West,Retail,Rodriguez-Graham Group,4,38.04,0.0,0.0,4,478,19,6.47,2,2026-06-13,0.0
+0.0,Stable,"Robinson, Jones and Welch",Los Angeles,West,Electronics,,7,49.64,0.0,0.0,7,4,19,6.47,2,2026-06-13,0.0
+13.39,Stable,Nolan and Sons,Indianapolis,Midwest,Restaurant,,4,29.36,0.0,0.0,4,56,19,6.47,2,2026-06-13,0.06
+58.17,Watch,Smith PLC,Indianapolis,Midwest,Retail,,2,40.07,0.0,0.0,2,36,19,6.47,2,2026-06-13,0.09
+12.49,Stable,Lewis-Murphy,Indianapolis,Midwest,Hospitality,,3,79.49,0.0,0.3333,3,124,19,6.47,2,2026-06-13,0.09
+5.91,Stable,Anderson-Bailey,Jacksonville,South,Professional Services,,3,49.82,0.0,0.0,3,38,19,6.47,2,2026-06-13,0.03
+15.0,Stable,Howard-Jordan,Los Angeles,West,Hospitality,"Watts, Robinson and Nguyen Group",4,41.75,0.0,0.0,4,247,19,6.47,2,2026-06-13,0.1
+0.0,Stable,Willis and Sons,Los Angeles,West,Electronics,"Baker, Mason and White Group",5,69.45,0.0,0.0,5,298,19,6.47,2,2026-06-13,0.0
+63.47,Elevated,Guerrero Inc,Los Angeles,West,Electronics,,1,23.48,0.0,0.0,1,302,19,6.47,2,2026-06-13,0.01
+19.17,Stable,Atkins PLC,Los Angeles,West,Entertainment,,3,37.09,0.0,0.0,3,356,19,6.47,2,2026-06-13,0.06
+47.5,Watch,Cox LLC,Los Angeles,West,Retail,,3,20.15,0.0,0.3333,3,386,19,6.47,2,2026-06-13,0.09
+3.75,Stable,"Osborn, Gaines and Davis",Los Angeles,West,Grocery,,8,49.99,0.125,0.0,8,396,19,6.47,2,2026-06-13,0.12
+6.92,Stable,"Butler, Beck and Miller",Los Angeles,West,Entertainment,"Harris, Collins and Carney Group",4,58.41,0.0,0.0,4,435,19,6.47,2,2026-06-13,0.06
+55.0,Watch,"Marshall, Dominguez and Welch",Los Angeles,West,Hospitality,,1,85.6,0.0,0.0,1,444,19,6.47,2,2026-06-13,0.05
+0.0,Stable,Paul-Kline,Los Angeles,West,Retail,Williams and Sons Group,7,54.24,0.0,0.0,7,452,19,6.47,2,2026-06-13,0.0
+36.82,Stable,"Lamb, Martin and Kim",Austin,South,Fuel,,2,37.92,0.0,0.0,2,405,19,6.47,2,2026-06-13,0.06
+17.49,Stable,Owens-Holmes,Austin,South,Hospitality,,3,16.57,0.0,0.0,3,489,19,6.47,2,2026-06-13,0.03
+46.0,Watch,"Bartlett, Brown and Martinez",Austin,South,Healthcare,,1,92.97,0.0,0.0,1,492,19,6.47,2,2026-06-13,0.04
+0.0,Stable,Mendez-Graham,Fort Worth,South,Healthcare,Smith-Bowen Group,5,40.58,0.0,0.0,5,461,19,5.76,1,2026-06-13,0.0
+60.44,Elevated,"Lloyd, Mckinney and Collins",Houston,South,Entertainment,,2,15.42,0.0,0.0,2,214,324,5.43,2,2026-06-13,0.04
+15.0,Stable,"Evans, Hayden and Vaughn",Houston,South,Travel,Gray-Mayo Group,5,25.75,0.0,0.0,5,255,324,5.43,2,2026-06-13,0.1
+0.0,Stable,"Harper, Smith and Buchanan",Houston,South,Healthcare,Ryan PLC Group,4,103.02,0.0,0.0,4,295,324,5.43,2,2026-06-13,0.0
+0.0,Stable,"Kelley, Nguyen and Vang",Houston,South,Retail,,4,60.89,0.0,0.0,4,314,324,5.43,2,2026-06-13,0.0
+6.75,Stable,Dixon Inc,Houston,South,Fuel,,9,70.0,0.0,0.2222,9,365,324,5.43,2,2026-06-13,0.38
+10.01,Stable,"Miller, Lucas and Williams",Houston,South,Restaurant,,5,28.7,0.0,0.2,5,384,324,5.43,2,2026-06-13,0.07
+55.0,Watch,Bean LLC,Houston,South,Fuel,,1,140.73,0.0,0.0,1,398,324,5.43,2,2026-06-13,0.08
+8.7,Stable,"Wise, Conley and Stephenson",Houston,South,Healthcare,,5,27.69,0.0,0.0,5,401,324,5.43,2,2026-06-13,0.06
+72.6,Elevated,Combs Ltd,Houston,South,Electronics,,2,43.94,0.0,0.5,2,422,324,5.43,2,2026-06-13,0.13
+60.23,Elevated,Lowery-Kennedy,Houston,South,Restaurant,,2,34.79,0.0,0.0,2,424,324,5.43,2,2026-06-13,0.08
+53.15,Watch,Acosta Inc,Houston,South,Entertainment,,2,36.05,0.0,0.0,2,455,324,5.43,2,2026-06-13,0.08
+3.51,Stable,"Whitney, Gould and Jones",Houston,South,Restaurant,Blair PLC Group,3,28.94,0.0,0.0,3,462,324,5.43,2,2026-06-13,0.01
+0.0,Stable,Brown-Wall,Houston,South,Healthcare,,5,50.71,0.0,0.0,5,111,324,5.43,2,2026-06-13,0.0
+0.0,Stable,Suarez LLC,Houston,South,Fuel,,4,75.62,0.0,0.0,4,39,324,5.43,2,2026-06-13,0.0
+3.33,Stable,"Woods, Calhoun and Schmidt",Houston,South,Fuel,"Watts, Robinson and Nguyen Group",9,51.29,0.1111,0.0,9,27,324,5.43,2,2026-06-13,0.14
+21.02,Stable,"Daniels, Adkins and Brown",Houston,South,Healthcare,"Arroyo, Miller and Tucker Group",5,39.09,0.0,0.2,4,26,324,5.43,2,2026-06-13,0.16
+3.45,Stable,Freeman-Chang,Houston,South,Electronics,,3,46.89,0.0,0.0,3,156,324,5.43,2,2026-06-13,0.01
+70.0,Elevated,Miller-Wright,Houston,South,Electronics,Doyle Ltd Group,1,22.66,0.0,0.0,1,177,324,5.43,2,2026-06-13,0.02
+68.32,Elevated,Gonzales-Harrison,Houston,South,Hospitality,,2,20.89,0.0,0.0,2,193,324,5.43,2,2026-06-13,0.06
+11.48,Stable,Cordova Group,Houston,South,Electronics,,4,27.27,0.0,0.0,4,207,324,5.43,2,2026-06-13,0.05
+20.9,Stable,"Hernandez, Thompson and Boyd",Chicago,Midwest,Retail,,5,34.88,0.0,0.2,5,145,324,5.43,2,2026-06-13,0.18
+48.67,Watch,"Williams, Johnson and Wright",Chicago,Midwest,Fuel,Dudley Group Group,2,60.09,0.0,0.0,2,129,324,5.43,2,2026-06-13,0.12
+57.36,Watch,Manning Group,Chicago,Midwest,Fuel,FastFuel Group,1,51.25,0.0,0.0,1,103,324,5.43,2,2026-06-13,0.03
+33.49,Stable,Torres-Pope,Chicago,Midwest,Electronics,"Harris, Collins and Carney Group",2,53.91,0.0,0.5,2,65,324,5.43,2,2026-06-13,0.07
+23.32,Stable,"Patterson, Smith and Jones",Chicago,Midwest,Hospitality,,2,36.38,0.0,0.0,2,52,324,5.43,2,2026-06-13,0.03
+28.39,Stable,"Garcia, Humphrey and Baker",Chicago,Midwest,Travel,Blake and Sons Group,3,36.08,0.0,0.0,3,43,324,5.43,2,2026-06-13,0.09
+14.79,Stable,"Smith, Montoya and Evans",Chicago,Midwest,Entertainment,Rodriguez-Graham Group,5,17.54,0.0,0.0,5,42,324,5.43,2,2026-06-13,0.06
+0.0,Stable,Garcia-Jennings,Chicago,Midwest,Electronics,"Guzman, Hoffman and Baldwin Group",4,80.67,0.0,0.0,4,291,324,5.43,2,2026-06-13,0.0
+61.65,Elevated,Davis-Lewis,Chicago,Midwest,Travel,Anderson Group Group,2,24.75,0.0,0.0,2,294,324,5.43,2,2026-06-13,0.06
+33.62,Stable,"Hicks, Bullock and Bailey",Chicago,Midwest,Grocery,Abbott-Munoz Group,2,46.31,0.0,0.0,2,366,324,5.43,2,2026-06-13,0.06
+21.0,Stable,Larson-Holloway,Chicago,Midwest,Healthcare,"Adams, Zuniga and Wong Group",5,20.57,0.0,0.2,5,192,324,5.43,2,2026-06-13,0.11
+54.56,Watch,Castaneda-Ashley,Philadelphia,Northeast,Fuel,,2,51.35,0.0,0.0,2,115,324,5.43,2,2026-06-13,0.11
+70.0,Elevated,Moore-Bass,Philadelphia,Northeast,Electronics,,1,115.5,0.0,1.0,1,40,324,5.43,2,2026-06-13,0.08
+0.0,Stable,"Sanford, Rivera and Garcia",Chicago,Midwest,Electronics,"Henderson, Ramirez and Lewis Group",6,39.4,0.0,0.0,6,234,324,5.43,2,2026-06-13,0.0
+10.66,Stable,Castaneda-Rodriguez,Chicago,Midwest,Grocery,,9,29.03,0.0,0.0,9,257,324,5.43,2,2026-06-13,0.25
+5.0,Stable,Robinson-Lee,Chicago,Midwest,Retail,,3,53.07,0.0,0.0,3,263,324,5.43,2,2026-06-13,0.02
+29.81,Stable,"West, Henderson and Ramirez",Houston,South,Electronics,,3,42.69,0.3333,0.0,3,14,324,5.43,2,2026-06-13,0.11
+13.45,Stable,Chapman and Sons,Houston,South,Electronics,,3,29.4,0.0,0.3333,3,3,324,5.43,2,2026-06-13,0.04
+53.29,Watch,"Thomas, Murray and King",Philadelphia,Northeast,Professional Services,,2,49.1,0.0,0.0,2,251,324,5.43,2,2026-06-13,0.1
+14.21,Stable,Byrd-Le,Philadelphia,Northeast,Retail,Smith-Bowen Group,3,34.64,0.0,0.0,3,264,324,5.43,2,2026-06-13,0.04
+32.28,Stable,Williams-Hughes,Philadelphia,Northeast,Travel,,3,31.31,0.3333,0.0,3,438,324,5.43,2,2026-06-13,0.09
+0.0,Stable,Kelly-Norman,Philadelphia,Northeast,Retail,,10,68.04,0.0,0.0,10,450,324,5.43,2,2026-06-13,0.0
+41.75,Watch,Jones-Soto,Philadelphia,Northeast,Grocery,Davis and Sons Group,3,108.85,0.0,0.3333,3,175,324,5.43,2,2026-06-13,0.41
+15.0,Stable,Bruce-Villegas,Los Angeles,West,Electronics,,6,31.85,0.0,0.0,6,332,324,5.43,2,2026-06-13,0.17
+1.0,Stable,"Evans, Stewart and Walton",Los Angeles,West,Travel,Hickman Ltd Group,5,52.73,0.2,0.0,5,35,324,5.43,2,2026-06-13,0.01
+53.97,Watch,"Shields, Cochran and Adams",Phoenix,Southwest,Electronics,Spence PLC Group,2,69.53,0.0,0.0,2,62,324,5.43,2,2026-06-13,0.15
+64.18,Elevated,"Mccall, Hanson and Alvarado",Phoenix,Southwest,Professional Services,,2,30.57,0.0,0.0,2,79,324,5.43,2,2026-06-13,0.08
+37.23,Stable,"Lewis, Kennedy and Santana",Phoenix,Southwest,Fuel,"Guzman, Hoffman and Baldwin Group",3,24.8,0.0,0.3333,3,87,324,5.43,2,2026-06-13,0.08
+11.64,Stable,Salazar-Ball,Phoenix,Southwest,Fuel,FastFuel Group,3,43.33,0.3333,0.0,3,101,324,5.43,2,2026-06-13,0.05
+61.7,Elevated,Russell-Daniels,Phoenix,Southwest,Travel,,3,19.91,0.0,0.3333,3,110,324,5.43,2,2026-06-13,0.11
+24.43,Stable,"Smith, Gilmore and Johnston",Phoenix,Southwest,Travel,,3,38.0,0.0,0.0,3,113,324,5.43,2,2026-06-13,0.08
+21.0,Stable,"Hurst, Freeman and Nelson",Phoenix,Southwest,Grocery,,5,17.32,0.0,0.2,5,117,324,5.43,2,2026-06-13,0.09
+70.0,Elevated,Curry Inc,Phoenix,Southwest,Entertainment,,1,23.12,0.0,0.0,1,127,324,5.43,2,2026-06-13,0.02
+68.32,Elevated,Rodriguez-Johnson,Phoenix,Southwest,Hospitality,,2,22.81,0.0,0.0,2,135,324,5.43,2,2026-06-13,0.06
+2.31,Stable,"Burke, Martinez and Riggs",Phoenix,Southwest,Healthcare,,13,71.66,0.0769,0.0,13,140,324,5.43,2,2026-06-13,0.28
+57.88,Watch,"Nelson, Morton and Medina",Phoenix,Southwest,Hospitality,,1,41.52,0.0,0.0,1,146,324,5.43,2,2026-06-13,0.02
+70.0,Elevated,"Branch, Torres and Oliver",Phoenix,Southwest,Grocery,,1,13.5,0.0,0.0,1,181,324,5.43,2,2026-06-13,0.01
+53.32,Watch,Warner-Gibson,Phoenix,Southwest,Hospitality,,2,26.81,0.0,0.0,2,187,324,5.43,2,2026-06-13,0.06
+19.95,Stable,"Guerrero, Peck and Coleman",Phoenix,Southwest,Retail,Blair PLC Group,3,22.82,0.0,0.0,3,189,324,5.43,2,2026-06-13,0.04
+7.5,Stable,"Sparks, Jackson and Miller",Phoenix,Southwest,Grocery,,4,60.52,0.25,0.0,4,249,324,5.43,2,2026-06-13,0.07
+15.0,Stable,Schroeder-Kramer,Phoenix,Southwest,Professional Services,,4,24.47,0.0,0.0,4,299,324,5.43,2,2026-06-13,0.06
+22.5,Stable,"Hoffman, Santiago and Jenkins",Phoenix,Southwest,Travel,"Baker, Mason and White Group",5,58.41,0.0,0.0,5,325,324,5.43,2,2026-06-13,0.33
+39.92,Stable,Cook and Sons,Phoenix,Southwest,Healthcare,"Romero, Gonzalez and Brooks Group",3,63.55,0.0,0.0,3,364,324,5.43,2,2026-06-13,0.23
+6.05,Stable,Burch-Montoya,Phoenix,Southwest,Entertainment,"Adams, Zuniga and Wong Group",5,31.92,0.0,0.0,5,412,324,5.43,2,2026-06-13,0.05
+6.55,Stable,Johnson and Sons,Phoenix,Southwest,Electronics,Perez Inc Group,6,35.9,0.0,0.0,6,471,324,5.43,2,2026-06-13,0.08
+9.7,Stable,Henderson-Bernard,Phoenix,Southwest,Travel,,3,44.05,0.0,0.0,3,23,324,5.43,2,2026-06-13,0.04
+0.0,Stable,"Miller, Ramos and Coleman",Jacksonville,South,Electronics,,4,34.54,0.0,0.0,4,344,324,5.43,2,2026-06-13,0.0
+0.0,Stable,Collier-Gillespie,Jacksonville,South,Retail,"Guzman, Hoffman and Baldwin Group",5,64.12,0.0,0.0,5,360,324,5.43,2,2026-06-13,0.0
+0.0,Stable,Chambers and Sons,San Francisco,West,Fuel,,7,52.2,0.0,0.0,7,90,324,5.43,2,2026-06-13,0.0
+1.64,Stable,Spencer-Lee,San Francisco,West,Fuel,,3,74.34,0.0,0.0,3,82,324,5.43,2,2026-06-13,0.01
+11.64,Stable,Gray Group,San Francisco,West,Fuel,Morales-Jones Group,3,77.87,0.0,0.3333,3,21,324,5.43,2,2026-06-13,0.08
+52.76,Watch,"Turner, Schneider and Johnson",Jacksonville,South,Fuel,Arnold Ltd Group,2,50.98,0.0,0.0,2,309,324,5.43,2,2026-06-13,0.11
+60.44,Elevated,"Richardson, Farmer and Andrews",Jacksonville,South,Entertainment,,2,16.52,0.0,0.0,2,331,324,5.43,2,2026-06-13,0.04
+4.23,Stable,"Morgan, Bradshaw and Williams",San Francisco,West,Hospitality,,4,28.45,0.0,0.0,4,499,324,5.43,2,2026-06-13,0.02
+35.93,Stable,Brown-Copeland,San Francisco,West,Fuel,"Romero, Gonzalez and Brooks Group",2,32.41,0.0,0.0,2,431,324,5.43,2,2026-06-13,0.05
+1.12,Stable,Barnes PLC,San Francisco,West,Restaurant,"Henderson, Ramirez and Lewis Group",6,56.61,0.0,0.0,6,430,324,5.43,2,2026-06-13,0.02
+29.84,Stable,"Higgins, Strickland and Martin",San Francisco,West,Travel,,2,67.52,0.0,0.0,2,134,324,5.43,2,2026-06-13,0.08
+1.41,Stable,Reid Group,Jacksonville,South,Hospitality,,5,43.34,0.0,0.2,5,281,324,4.83,1,2026-06-13,0.03
+12.08,Stable,White-Green,Dallas,South,Fuel,,2,38.67,0.0,0.0,2,123,324,4.35,3,2026-06-13,0.01
+37.14,Stable,Patton-Jenkins,Columbus,Midwest,Healthcare,,2,9.38,0.0,0.0,2,61,324,4.35,3,2026-06-13,0.01
+42.63,Watch,Davis Ltd,Columbus,Midwest,Healthcare,,3,41.57,0.0,0.0,3,197,324,4.35,3,2026-06-13,0.06
+58.94,Watch,Walsh LLC,Washington,Northeast,Electronics,,1,41.02,0.0,0.0,1,50,324,4.35,3,2026-06-13,0.01
+45.28,Watch,"Carroll, Sullivan and Bass",Columbus,Midwest,Healthcare,"Snyder, Campos and Callahan Group",2,46.23,0.0,0.0,2,84,324,4.35,3,2026-06-13,0.03
+0.88,Stable,Smith-Grimes,Fort Worth,South,Retail,,4,50.66,0.0,0.0,4,260,324,4.35,3,2026-06-13,0.0
+18.85,Stable,Smith-Bell,Seattle,West,Hospitality,,3,49.15,0.0,0.0,3,114,19,3.84,1,2026-06-13,0.17
+14.97,Stable,Hayes LLC,San Diego,West,Restaurant,"Henderson, Ramirez and Lewis Group",7,28.56,0.0,0.0,7,383,19,3.84,1,2026-06-13,0.42
+27.86,Stable,Hernandez Ltd,Indianapolis,Midwest,Professional Services,Wilkerson-Day Group,4,21.4,0.0,0.0,4,95,19,3.84,1,2026-06-13,0.19
+10.8,Stable,Davis and Sons,San Jose,West,Grocery,"Rodriguez, Figueroa and Sanchez Group",13,39.26,0.0769,0.0769,13,158,19,3.84,1,2026-06-13,1.43
+0.0,Stable,Monroe-Carpenter,San Antonio,South,Restaurant,,6,63.78,0.0,0.0,6,225,19,3.84,1,2026-06-13,0.0
+10.49,Stable,"Hernandez, Cole and Watson",San Diego,West,Healthcare,,5,58.78,0.0,0.0,5,468,19,3.84,1,2026-06-13,0.31
+10.59,Stable,Bruce-Gonzalez,Austin,South,Entertainment,,5,86.82,0.0,0.0,5,256,19,3.84,1,2026-06-13,0.46
+53.68,Watch,Welch-Hogan,San Jose,West,Entertainment,,3,35.53,0.0,0.0,3,375,19,3.84,1,2026-06-13,0.34
+53.79,Watch,"Ferrell, Jones and Lewis",Phoenix,Southwest,Restaurant,,3,29.97,0.3333,0.0,3,37,324,3.22,1,2026-06-13,0.29
+6.96,Stable,White-Lewis,Houston,South,Professional Services,,5,25.82,0.0,0.0,5,152,324,3.22,1,2026-06-13,0.09
+34.85,Stable,Miller Ltd,Jacksonville,South,Restaurant,Frazier Inc Group,3,29.75,0.0,0.0,3,500,324,3.22,1,2026-06-13,0.19
+62.29,Elevated,Cisneros and Sons,San Francisco,West,Retail,,2,25.34,0.0,0.0,2,464,324,3.22,1,2026-06-13,0.13
+43.13,Watch,Novak PLC,San Jose,West,Travel,Harrell LLC Group,2,65.77,0.0,0.0,2,25,19,2.59,2,2026-06-13,0.11
+59.46,Watch,"Bentley, Lynch and Henderson",Washington,Northeast,Electronics,,2,34.78,0.0,0.0,2,428,19,2.59,3,2026-06-13,0.03
+20.62,Stable,Gomez-Jenkins,Washington,Northeast,Fuel,,2,58.28,0.0,0.0,2,10,19,2.59,3,2026-06-13,0.02
+55.0,Watch,Taylor and Sons,Washington,Northeast,Fuel,,1,40.18,0.0,0.0,1,273,19,2.59,3,2026-06-13,0.01
+9.74,Stable,Osborne LLC,Dallas,South,Restaurant,,3,46.06,0.0,0.0,3,466,19,2.59,3,2026-06-13,0.02
+10.52,Stable,Stanley PLC,Columbus,Midwest,Entertainment,Spence PLC Group,6,36.54,0.0,0.0,6,402,19,2.59,3,2026-06-13,0.06
+19.37,Stable,"Jimenez, Glass and Stone",Columbus,Midwest,Travel,Galloway-Wyatt Group,3,32.62,0.0,0.6667,3,454,19,2.59,3,2026-06-13,0.02
+42.91,Watch,Parker-Morrison,Columbus,Midwest,Fuel,,2,21.81,0.0,0.0,2,458,19,2.59,3,2026-06-13,0.01
+31.47,Stable,Gay Inc,Denver,Southwest,Electronics,,2,106.56,0.0,0.0,2,216,19,2.59,3,2026-06-13,0.05
+69.06,Elevated,"Lawson, Morris and Ramos",San Francisco,West,Healthcare,,2,20.05,0.0,0.0,2,86,19,2.59,3,2026-06-13,0.02
+60.95,Elevated,Thompson-James,Dallas,South,Travel,"Dyer, Potter and Mack Group",1,45.31,0.0,0.0,1,352,19,2.59,2,2026-06-13,0.03
+62.98,Elevated,Jones-Hensley,Washington,Northeast,Healthcare,Allen-Allen Group,1,26.97,0.0,0.0,1,354,19,2.59,2,2026-06-13,0.02
+9.5,Stable,Gutierrez-Lopez,Fort Worth,South,Retail,Rodriguez-Graham Group,5,85.2,0.2,0.2,5,209,19,2.59,2,2026-06-13,0.2
+31.14,Stable,Cook-Hines,Denver,Southwest,Electronics,,3,33.36,0.0,0.0,3,227,19,2.59,3,2026-06-13,0.04
+3.33,Stable,Pollard and Sons,Denver,Southwest,Retail,,9,52.91,0.1111,0.0,9,229,19,2.59,3,2026-06-13,0.06
+16.82,Stable,Hayes and Sons,Denver,Southwest,Fuel,Carlson-Cruz Group,4,31.56,0.0,0.25,4,307,19,2.59,3,2026-06-13,0.03
+9.84,Stable,"Phillips, Spence and Barrett",Denver,Southwest,Travel,,2,39.82,0.0,0.0,2,259,19,2.59,3,2026-06-13,0.01
+49.79,Watch,Salazar Inc,Denver,Southwest,Restaurant,,3,39.16,0.0,0.3333,3,485,19,2.59,3,2026-06-13,0.07
+6.0,Stable,"Rivera, Martinez and Richardson",Denver,Southwest,Healthcare,,5,49.27,0.0,0.2,5,451,19,2.59,3,2026-06-13,0.03
+14.42,Stable,Johnson-Carlson,Denver,Southwest,Hospitality,"Watts, Robinson and Nguyen Group",3,44.8,0.0,0.0,3,72,19,2.59,2,2026-06-13,0.06
+6.0,Stable,Hughes-Alvarado,San Jose,West,Travel,,5,107.18,0.2,0.0,5,232,324,2.17,3,2026-06-13,0.06
+55.0,Watch,Duran LLC,San Diego,West,Fuel,,1,77.64,0.0,0.0,1,350,324,2.17,3,2026-06-13,0.02
+11.43,Stable,Hayes Ltd,San Diego,West,Professional Services,Carlson-Cruz Group,3,60.53,0.0,0.0,3,476,324,2.17,3,2026-06-13,0.02
+3.45,Stable,"Tapia, Vaughn and Lee",Columbus,Midwest,Electronics,,3,98.83,0.0,0.0,3,164,324,2.17,3,2026-06-13,0.01
+66.15,Elevated,Jones and Sons,San Diego,West,Hospitality,,2,34.17,0.0,0.0,2,191,324,2.17,3,2026-06-13,0.04
+40.0,Watch,Edwards-Scott,Columbus,Midwest,Retail,,2,66.05,0.0,0.0,2,320,324,2.17,3,2026-06-13,0.04
+12.86,Stable,"Jones, Compton and Day",Columbus,Midwest,Fuel,Carlson-Cruz Group,4,19.86,0.0,0.0,4,488,324,2.17,3,2026-06-13,0.02
+0.0,Stable,Morgan-Schwartz,Columbus,Midwest,Fuel,,6,68.2,0.0,0.0,6,238,324,2.17,3,2026-06-13,0.0
+12.13,Stable,"Booker, Jones and Harrington",Columbus,Midwest,Entertainment,,2,41.87,0.0,0.0,2,237,324,2.17,3,2026-06-13,0.01
+26.67,Stable,Bass PLC,Columbus,Midwest,Electronics,,4,13.4,0.0,0.5,4,288,324,2.17,3,2026-06-13,0.02
+0.0,Stable,Jones LLC,Columbus,Midwest,Retail,Rodriguez LLC Group,7,26.0,0.0,0.0,7,254,324,2.17,3,2026-06-13,0.0
+70.0,Elevated,Jones PLC,Dallas,South,Electronics,,1,63.62,1.0,0.0,1,297,324,2.17,3,2026-06-13,0.02
+57.02,Watch,Gregory-Watkins,Dallas,South,Professional Services,,2,26.23,0.0,0.0,2,347,324,2.17,3,2026-06-13,0.02
+0.0,Stable,Carter Inc,Washington,Northeast,Travel,,4,70.03,0.0,0.0,4,446,324,2.17,3,2026-06-13,0.0
+10.82,Stable,Sandoval-Cunningham,Dallas,South,Healthcare,,4,18.57,0.0,0.0,4,32,324,2.17,3,2026-06-13,0.01
+28.06,Stable,"Morales, Thomas and Schultz",San Francisco,West,Grocery,,3,18.39,0.0,0.0,3,337,324,2.17,2,2026-06-13,0.05
+5.5,Stable,Mcdaniel Group,Fort Worth,South,Hospitality,"Ross, Robinson and Bright Group",4,37.44,0.0,0.25,4,321,324,2.17,3,2026-06-13,0.01
+6.22,Stable,Henry Group,Fort Worth,South,Travel,"Adams, Zuniga and Wong Group",4,33.44,0.0,0.0,4,311,324,2.17,3,2026-06-13,0.01
+0.7,Stable,"Richardson, Edwards and Ramirez",Fort Worth,South,Travel,Allen-Allen Group,3,75.84,0.0,0.0,3,470,324,2.17,3,2026-06-13,0.0
+44.32,Watch,Morton-Chase,Fort Worth,South,Hospitality,"Arroyo, Miller and Tucker Group",2,55.53,0.0,0.0,2,16,324,2.17,3,2026-06-13,0.04
+9.26,Stable,Davis-Gregory,Columbus,Midwest,Entertainment,,6,37.5,0.0,0.0,6,389,324,2.17,2,2026-06-13,0.13
+6.0,Stable,Davis Inc,Washington,Northeast,Retail,,5,41.83,0.2,0.2,5,322,324,2.17,3,2026-06-13,0.03
+0.0,Stable,Burgess-Thompson,San Diego,West,Hospitality,,5,38.53,0.0,0.0,5,268,324,2.17,2,2026-06-13,0.0
+11.43,Stable,"Valentine, Joyce and Murray",Dallas,South,Professional Services,Abbott-Munoz Group,3,36.52,0.0,0.0,3,410,324,2.17,3,2026-06-13,0.02
+30.51,Stable,"Kim, Gonzales and Mills",Columbus,Midwest,Healthcare,,3,37.16,0.0,0.0,3,385,324,2.17,2,2026-06-13,0.1
+7.5,Stable,Medina-Navarro,Dallas,South,Retail,,4,60.28,0.0,0.25,4,116,324,2.17,3,2026-06-13,0.03
+40.36,Watch,"Miller, Hernandez and Reyes",Dallas,South,Travel,Blake and Sons Group,2,26.55,0.0,0.0,2,108,324,2.17,3,2026-06-13,0.02
+55.0,Watch,Williams-Cook,Dallas,South,Hospitality,"Martin, Rose and Obrien Group",1,73.94,0.0,0.0,1,49,324,2.17,3,2026-06-13,0.02
+9.89,Stable,Moody-Taylor,Dallas,South,Electronics,"Gardner, Robinson and Lawrence Group",3,78.0,0.0,0.0,3,423,324,2.17,3,2026-06-13,0.03
+14.34,Stable,Anderson-Bell,Dallas,South,Healthcare,Baker and Sons Group,5,40.11,0.2,0.0,5,442,324,2.17,3,2026-06-13,0.06
+4.29,Stable,Zhang PLC,Dallas,South,Travel,,7,51.01,0.1429,0.0,7,296,324,2.17,3,2026-06-13,0.04
+0.0,Stable,Arnold and Sons,Austin,South,Entertainment,"Mcclain, Miller and Henderson Group",4,47.82,0.0,0.0,4,184,19,1.73,2,2026-06-13,0.0
+9.95,Stable,"Fuller, Ingram and Moss",San Jose,West,Grocery,Blake and Sons Group,3,19.0,0.0,0.0,3,441,19,1.73,2,2026-06-13,0.02
+70.0,Elevated,"Fisher, Wilson and Brown",San Jose,West,Entertainment,,1,28.43,0.0,0.0,1,305,19,1.73,2,2026-06-13,0.02
+6.0,Stable,"Turner, Ortiz and Taylor",San Jose,West,Hospitality,"Reid, Ferguson and Sanchez Group",5,51.65,0.0,0.2,5,282,19,1.73,2,2026-06-13,0.08
+66.05,Elevated,"Washington, Hardy and Bray",Denver,Southwest,Fuel,,1,24.99,0.0,0.0,1,165,19,1.73,2,2026-06-13,0.02
+0.0,Stable,Smith-Frost,Washington,Northeast,Travel,,6,61.14,0.0,0.1667,6,76,19,1.73,2,2026-06-13,0.0
+13.88,Stable,Hernandez Inc,Washington,Northeast,Electronics,,4,46.66,0.0,0.0,4,91,19,1.73,2,2026-06-13,0.1
+36.31,Stable,"Brooks, Lam and Hayes",San Antonio,South,Entertainment,,3,76.68,0.0,0.0,3,1,19,1.73,2,2026-06-13,0.25
+38.97,Stable,Kerr-Evans,Austin,South,Electronics,,2,71.48,0.0,0.0,2,180,19,1.73,2,2026-06-13,0.11
+14.42,Stable,"Yates, Ramsey and Pittman",Fort Worth,South,Entertainment,Burton Ltd Group,4,75.52,0.0,0.25,4,119,19,1.73,2,2026-06-13,0.17
+54.38,Watch,"Matthews, Smith and Hubbard",Denver,Southwest,Grocery,,2,22.85,0.0,0.0,2,198,19,1.73,2,2026-06-13,0.05
+19.63,Stable,Meadows PLC,Denver,Southwest,Fuel,,5,21.48,0.0,0.2,5,121,19,1.73,2,2026-06-13,0.11
+12.23,Stable,Howell and Sons,San Francisco,West,Electronics,Morales-Jones Group,4,39.42,0.25,0.0,4,130,19,1.73,2,2026-06-13,0.08
+0.0,Stable,"Walker, Hernandez and Baker",Jacksonville,South,Travel,"Romero, Gonzalez and Brooks Group",5,102.92,0.0,0.0,5,190,19,1.73,2,2026-06-13,0.0
+33.16,Stable,Jones-Fox,Dallas,South,Healthcare,Garcia-James Group,4,71.12,0.0,0.0,4,436,19,1.73,2,2026-06-13,0.38
+3.5,Stable,"James, Stewart and Higgins",Denver,Southwest,Entertainment,,5,67.62,0.0,0.2,5,240,19,1.73,2,2026-06-13,0.06
+30.12,Stable,"Anderson, Roberts and Gilmore",Columbus,Midwest,Professional Services,,3,72.99,0.0,0.0,3,212,19,1.73,2,2026-06-13,0.2
+7.81,Stable,Stewart Ltd,Chicago,Midwest,Entertainment,"Watts, Robinson and Nguyen Group",9,44.7,0.0,0.1111,9,163,19,1.73,2,2026-06-13,0.28
+52.32,Watch,Gonzalez-Taylor,Denver,Southwest,Professional Services,"Snyder, Campos and Callahan Group",2,23.58,0.0,0.0,2,475,19,1.73,2,2026-06-13,0.05
+7.15,Stable,Kim Inc,Dallas,South,Grocery,,9,40.95,0.0,0.0,9,361,19,1.73,2,2026-06-13,0.24
+2.43,Stable,"Brown, Harris and Dougherty",Denver,Southwest,Professional Services,Spence PLC Group,3,57.55,0.0,0.0,3,349,19,1.73,2,2026-06-13,0.01
+3.67,Stable,Good-Hodges,Washington,Northeast,Professional Services,,4,27.19,0.0,0.25,4,244,19,1.73,2,2026-06-13,0.02
+1.03,Stable,Price LLC,San Francisco,West,Restaurant,,4,40.57,0.0,0.0,4,285,19,1.73,2,2026-06-13,0.01
+12.57,Stable,"Carlson, Hooper and Wall",Austin,South,Retail,,5,28.76,0.0,0.2,5,166,19,1.73,2,2026-06-13,0.09
+12.86,Stable,Santana-Byrd,San Antonio,South,Professional Services,,4,40.07,0.0,0.0,4,253,19,1.73,2,2026-06-13,0.08
+18.0,Stable,Wolf-Harris,San Diego,West,Grocery,Perez Inc Group,4,77.38,0.0,0.0,4,211,19,1.73,2,2026-06-13,0.22
+0.0,Stable,Buchanan LLC,Dallas,South,Professional Services,Abbott-Munoz Group,4,65.29,0.0,0.0,4,269,19,1.73,2,2026-06-13,0.0
+11.97,Stable,Hicks-Martinez,San Diego,West,Retail,,4,34.98,0.0,0.0,4,481,19,1.73,2,2026-06-13,0.07
+10.9,Stable,Ware and Sons,Austin,South,Travel,,4,22.1,0.0,0.0,4,342,19,1.73,2,2026-06-13,0.04
+29.0,Stable,"Mckee, Gardner and Davenport",Columbus,Midwest,Retail,,3,32.8,0.0,0.0,3,53,19,1.73,2,2026-06-13,0.09
+70.0,Elevated,"Simmons, Meadows and Griffin",Fort Worth,South,Fuel,FastFuel Group,1,12.06,0.0,0.0,1,102,19,1.73,2,2026-06-13,0.01
+7.5,Stable,"Fernandez, Kim and George",Denver,Southwest,Grocery,,4,43.75,0.0,0.25,4,195,19,1.73,2,2026-06-13,0.05
+11.5,Stable,Kane PLC,Dallas,South,Restaurant,Spence PLC Group,5,30.4,0.2,0.0,5,336,19,1.73,2,2026-06-13,0.09
+29.33,Stable,Torres and Sons,Denver,Southwest,Fuel,,3,51.55,0.0,0.0,3,493,19,1.73,2,2026-06-13,0.14
+46.56,Watch,Reynolds Ltd,Austin,South,Travel,,4,41.05,0.0,0.0,4,323,19,1.73,2,2026-06-13,0.31
+15.0,Stable,Spencer-Garcia,San Jose,West,Restaurant,,4,17.08,0.0,0.0,4,414,19,1.73,2,2026-06-13,0.04
+0.61,Stable,Scott and Sons,Jacksonville,South,Retail,"Dyer, Potter and Mack Group",7,21.87,0.0,0.1429,7,427,19,1.73,2,2026-06-13,0.01
+12.0,Stable,"Griffin, Davies and Mitchell",Austin,South,Entertainment,,5,31.26,0.0,0.0,5,474,19,1.73,2,2026-06-13,0.09
+9.62,Stable,"Moore, Hopkins and Le",Columbus,Midwest,Fuel,,4,36.93,0.0,0.0,4,498,19,1.73,2,2026-06-13,0.06
+15.0,Stable,"Daniels, Vance and York",Columbus,Midwest,Hospitality,,4,52.87,0.5,0.0,4,479,19,1.73,2,2026-06-13,0.13
+6.0,Stable,Davis-Lozano,San Antonio,South,Professional Services,Arnold Ltd Group,5,40.02,0.0,0.2,5,417,19,1.73,2,2026-06-13,0.06
+42.82,Watch,Smith and Sons,Philadelphia,Northeast,Electronics,,3,28.11,0.0,0.0,3,303,19,1.73,2,2026-06-13,0.11
+12.07,Stable,Boone LLC,Washington,Northeast,Hospitality,Blake and Sons Group,5,34.12,0.0,0.0,5,330,19,1.73,2,2026-06-13,0.1
+20.7,Stable,Erickson and Sons,San Antonio,South,Hospitality,,4,34.14,0.0,0.25,4,168,19,1.73,2,2026-06-13,0.11
+56.43,Watch,Estrada-Nolan,Philadelphia,Northeast,Electronics,"Arroyo, Miller and Tucker Group",2,32.4,0.0,0.0,2,252,19,1.73,2,2026-06-13,0.07
+0.0,Stable,Strickland-Palmer,San Antonio,South,Healthcare,,6,54.95,0.0,0.0,6,306,19,1.73,2,2026-06-13,0.0
+12.13,Stable,"Parker, Ortiz and Powell",San Francisco,West,Hospitality,,4,29.3,0.0,0.0,4,81,19,1.73,2,2026-06-13,0.06
+70.0,Elevated,Webster Inc,Dallas,South,Fuel,,1,22.82,0.0,0.0,1,343,19,1.73,2,2026-06-13,0.02
+3.75,Stable,"Williams, Logan and Camacho",San Antonio,South,Retail,,8,54.48,0.125,0.0,8,308,19,1.73,2,2026-06-13,0.13
+35.4,Stable,"Bryan, Smith and Booth",San Diego,West,Healthcare,,4,32.85,0.0,0.0,4,208,19,1.73,2,2026-06-13,0.19
+9.0,Stable,Crosby-Ramirez,San Antonio,South,Entertainment,"Henderson, Ramirez and Lewis Group",6,56.79,0.0,0.0,6,289,19,1.73,2,2026-06-13,0.18
+44.79,Watch,Thomas and Sons,Austin,South,Restaurant,"Reid, Ferguson and Sanchez Group",3,150.57,0.0,0.0,3,368,19,1.73,2,2026-06-13,0.61
+16.95,Stable,"Smith, Garrison and Thomas",San Francisco,West,Healthcare,,5,31.3,0.0,0.0,5,300,19,1.73,2,2026-06-13,0.13
+14.31,Stable,"Kennedy, Johnson and Lucas",Fort Worth,South,Entertainment,,6,33.02,0.1667,0.0,6,449,19,1.73,2,2026-06-13,0.17
+8.35,Stable,Mitchell-Jordan,Washington,Northeast,Healthcare,,5,26.18,0.0,0.0,5,85,19,1.73,2,2026-06-13,0.05
+11.33,Stable,Mcdonald-Bird,Seattle,West,Grocery,"Reid, Ferguson and Sanchez Group",6,68.27,0.3333,0.1667,6,484,19,1.73,2,2026-06-13,0.28
+44.86,Watch,Mccarthy Inc,Washington,Northeast,Travel,,4,41.53,0.0,0.25,4,109,324,1.45,2,2026-06-13,0.3
+8.87,Stable,"Wright, Garcia and Deleon",Columbus,Midwest,Grocery,,6,40.2,0.0,0.0,6,57,324,1.45,2,2026-06-13,0.13
+20.53,Stable,"Tran, Jordan and Williams",Dallas,South,Entertainment,,3,74.99,0.0,0.0,3,54,324,1.45,2,2026-06-13,0.14
+23.95,Stable,Miller Ltd,San Francisco,West,Grocery,,5,49.58,0.0,0.2,5,155,324,1.45,2,2026-06-13,0.3
+38.29,Stable,"Choi, Garcia and Farmer",Washington,Northeast,Restaurant,,2,86.05,0.0,0.0,2,182,324,1.45,2,2026-06-13,0.13
+0.0,Stable,"Jackson, Miller and Robertson",Washington,Northeast,Professional Services,,6,40.82,0.0,0.0,6,88,324,1.45,2,2026-06-13,0.0
+68.29,Elevated,"Brown, Valdez and Lucas",Chicago,Midwest,Restaurant,"Romero, Gonzalez and Brooks Group",2,45.29,0.0,0.0,2,11,324,1.45,2,2026-06-13,0.12
+0.0,Stable,Carlson-Smith,Washington,Northeast,Electronics,,9,44.54,0.0,0.0,9,432,324,1.45,2,2026-06-13,0.0
+0.0,Stable,Hernandez PLC,Dallas,South,Fuel,Burton Ltd Group,7,90.27,0.0,0.0,7,176,324,1.45,2,2026-06-13,0.0

@@ -1,0 +1,24 @@
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+# MSI Thresholds
+MSI_WATCH_THRESHOLD = float(os.getenv("MSI_WATCH_THRESHOLD", 40))
+MSI_ELEVATED_THRESHOLD = float(os.getenv("MSI_ELEVATED_THRESHOLD", 60))
+MSI_CRITICAL_THRESHOLD = float(os.getenv("MSI_CRITICAL_THRESHOLD", 80))
+CONTAGION_SOURCE_THRESHOLD = MSI_CRITICAL_THRESHOLD
+
+# BFS Depth
+CONTAGION_MAX_DEPTH = int(os.getenv("CONTAGION_MAX_DEPTH", 3))
+
+# Signal Weights (Must sum to 1.0)
+WEIGHT_VELOCITY = 0.20
+WEIGHT_TICKET = 0.15
+WEIGHT_REFUND = 0.15
+WEIGHT_DECLINE = 0.15
+WEIGHT_CHURN = 0.25
+WEIGHT_SEASONAL = 0.10
+
+# Normalization constants
+NORMALIZATION_MULTIPLIER = 2.0

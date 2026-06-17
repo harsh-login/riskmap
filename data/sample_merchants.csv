@@ -1,0 +1,501 @@
+merchant_id,name,category,city,region,franchise_group,tenure_years,card_acceptance_date
+1,"Brooks, Lam and Hayes",Entertainment,San Antonio,South,,11.1,2012-08-28
+2,Walker LLC,Professional Services,San Antonio,South,Blair PLC Group,7.2,2016-07-21
+3,Chapman and Sons,Electronics,Houston,South,,0.8,2022-12-13
+4,"Robinson, Jones and Welch",Electronics,Los Angeles,West,,3.6,2020-02-25
+5,Jones Inc,Professional Services,New York,Northeast,,6.8,2016-12-14
+6,Jones-Young,Professional Services,Indianapolis,Midwest,Galloway-Wyatt Group,3.9,2019-11-08
+7,"Washington, Ryan and Cummings",Travel,Charlotte,South,"Mcclain, Miller and Henderson Group",13.0,2010-10-04
+8,"Johnston, Sanchez and Kennedy",Healthcare,San Antonio,South,,0.7,2023-01-19
+9,Lee-Davis,Retail,Columbus,Midwest,Wilkerson-Day Group,1.9,2021-11-07
+10,Gomez-Jenkins,Fuel,Washington,Northeast,,12.6,2011-02-27
+11,"Brown, Valdez and Lucas",Restaurant,Chicago,Midwest,"Romero, Gonzalez and Brooks Group",11.5,2012-04-04
+12,Powell LLC,Grocery,Philadelphia,Northeast,,3.2,2020-07-20
+13,Wright and Sons,Professional Services,Seattle,West,,6.2,2017-07-21
+14,"West, Henderson and Ramirez",Electronics,Houston,South,,8.1,2015-08-28
+15,Baxter Inc,Healthcare,San Diego,West,"Flowers, Martin and Kelly Group",8.3,2015-06-16
+16,Morton-Chase,Hospitality,Fort Worth,South,"Arroyo, Miller and Tucker Group",1.6,2022-02-24
+17,Williams PLC,Hospitality,San Antonio,South,,3.4,2020-05-08
+18,Novak and Sons,Travel,Austin,South,,11.1,2012-08-28
+19,Russell Group,Healthcare,New York,Northeast,,9.9,2013-11-09
+20,Hancock Inc,Hospitality,San Antonio,South,,5.3,2018-06-15
+21,Gray Group,Fuel,San Francisco,West,Morales-Jones Group,10.2,2013-07-23
+22,House-Glover,Electronics,Jacksonville,South,"Dyer, Potter and Mack Group",7.3,2016-06-15
+23,Henderson-Bernard,Travel,Phoenix,Southwest,,8.6,2015-02-26
+24,"Stanley, Tucker and Lee",Fuel,Columbus,Midwest,Williams and Sons Group,6.7,2017-01-20
+25,Novak PLC,Travel,San Jose,West,Harrell LLC Group,7.4,2016-05-09
+26,"Daniels, Adkins and Brown",Healthcare,Houston,South,"Arroyo, Miller and Tucker Group",8.3,2015-06-16
+27,"Woods, Calhoun and Schmidt",Fuel,Houston,South,"Watts, Robinson and Nguyen Group",13.3,2010-06-17
+28,Yu Inc,Hospitality,San Jose,West,"Hoffman, Baker and Richards Group",12.2,2011-07-23
+29,Jones Inc,Entertainment,Jacksonville,South,,8.3,2015-06-16
+30,"Hensley, Powell and David",Restaurant,San Antonio,South,Baker and Sons Group,6.7,2017-01-20
+31,"Sanchez, Wheeler and Harvey",Hospitality,Washington,Northeast,"Gardner, Robinson and Lawrence Group",7.9,2015-11-09
+32,Sandoval-Cunningham,Healthcare,Dallas,South,,4.4,2019-05-09
+33,Donovan-Harris,Grocery,Charlotte,South,Morales-Jones Group,10.7,2013-01-21
+34,"Edwards, Baker and Anderson",Restaurant,Indianapolis,Midwest,Dudley Group Group,4.2,2019-07-21
+35,"Evans, Stewart and Walton",Travel,Los Angeles,West,Hickman Ltd Group,15.0,2008-10-04
+36,Smith PLC,Retail,Indianapolis,Midwest,,1.2,2022-07-20
+37,"Ferrell, Jones and Lewis",Restaurant,Phoenix,Southwest,,10.4,2013-05-10
+38,Anderson-Bailey,Professional Services,Jacksonville,South,,4.0,2019-10-02
+39,Suarez LLC,Fuel,Houston,South,,3.9,2019-11-08
+40,Moore-Bass,Electronics,Philadelphia,Northeast,,14.8,2008-12-16
+41,"Turner, Riggs and Roman",Restaurant,Austin,South,"Gardner, Robinson and Lawrence Group",10.6,2013-02-26
+42,"Smith, Montoya and Evans",Entertainment,Chicago,Midwest,Rodriguez-Graham Group,0.7,2023-01-19
+43,"Garcia, Humphrey and Baker",Travel,Chicago,Midwest,Blake and Sons Group,3.0,2020-10-01
+44,Newton and Sons,Electronics,New York,Northeast,"Flowers, Martin and Kelly Group",12.6,2011-02-27
+45,Campbell-Clark,Hospitality,Austin,South,Perez Inc Group,8.4,2015-05-10
+46,Harris-Walters,Travel,San Jose,West,Galloway-Wyatt Group,12.3,2011-06-17
+47,Wagner-King,Retail,Washington,Northeast,Galloway-Wyatt Group,8.2,2015-07-23
+48,Davis Group,Restaurant,Los Angeles,West,Dudley Group Group,8.6,2015-02-26
+49,Williams-Cook,Hospitality,Dallas,South,"Martin, Rose and Obrien Group",12.8,2010-12-16
+50,Walsh LLC,Electronics,Washington,Northeast,,13.4,2010-05-11
+51,Figueroa PLC,Restaurant,Washington,Northeast,"Baker, Mason and White Group",10.2,2013-07-23
+52,"Patterson, Smith and Jones",Hospitality,Chicago,Midwest,,0.6,2023-02-24
+53,"Mckee, Gardner and Davenport",Retail,Columbus,Midwest,,7.0,2016-10-02
+54,"Tran, Jordan and Williams",Entertainment,Dallas,South,,3.9,2019-11-08
+55,Nolan-Flynn,Entertainment,San Francisco,West,"Henderson, Ramirez and Lewis Group",12.8,2010-12-16
+56,Nolan and Sons,Restaurant,Indianapolis,Midwest,,7.9,2015-11-09
+57,"Wright, Garcia and Deleon",Grocery,Columbus,Midwest,,7.6,2016-02-26
+58,Dickson-Brady,Retail,San Diego,West,"Ferrell, Rice and Maddox Group",8.9,2014-11-09
+59,Hancock and Sons,Healthcare,New York,Northeast,"Martin, Rose and Obrien Group",4.6,2019-02-26
+60,Johnson-Doyle,Restaurant,Chicago,Midwest,Allen-Allen Group,14.1,2009-08-29
+61,Patton-Jenkins,Healthcare,Columbus,Midwest,,11.3,2012-06-16
+62,"Shields, Cochran and Adams",Electronics,Phoenix,Southwest,Spence PLC Group,14.5,2009-04-05
+63,"Rodriguez, Brennan and Garrison",Restaurant,Chicago,Midwest,Gray-Mayo Group,3.3,2020-06-14
+64,Gonzalez Group,Travel,New York,Northeast,"Walter, Edwards and Rios Group",6.2,2017-07-21
+65,Torres-Pope,Electronics,Chicago,Midwest,"Harris, Collins and Carney Group",9.4,2014-05-10
+66,Walker Ltd,Professional Services,Los Angeles,West,,11.2,2012-07-23
+67,Ross LLC,Hospitality,New York,Northeast,,5.7,2018-01-20
+68,Rasmussen LLC,Fuel,San Jose,West,,4.2,2019-07-21
+69,May-Ross,Professional Services,Fort Worth,South,Rodriguez-Graham Group,12.1,2011-08-29
+70,"Rivera, Johnson and Wiley",Electronics,New York,Northeast,,12.0,2011-10-04
+71,White-Estes,Travel,Jacksonville,South,"Hoffman, Baker and Richards Group",8.9,2014-11-09
+72,Johnson-Carlson,Hospitality,Denver,Southwest,"Watts, Robinson and Nguyen Group",9.1,2014-08-28
+73,Chandler-Edwards,Entertainment,Indianapolis,Midwest,Williams and Sons Group,5.7,2018-01-20
+74,"Joyce, Wilson and Lam",Restaurant,Phoenix,Southwest,,4.4,2019-05-09
+75,Scott Ltd,Healthcare,Jacksonville,South,,12.7,2011-01-22
+76,Smith-Frost,Travel,Washington,Northeast,,11.0,2012-10-03
+77,"Mcdaniel, Bentley and Mclaughlin",Retail,Fort Worth,South,,5.2,2018-07-21
+78,Diaz Inc,Electronics,Indianapolis,Midwest,"Hoffman, Baker and Richards Group",11.3,2012-06-16
+79,"Mccall, Hanson and Alvarado",Professional Services,Phoenix,Southwest,,12.6,2011-02-27
+80,Cortez LLC,Healthcare,Dallas,South,"Rodriguez, Figueroa and Sanchez Group",6.9,2016-11-08
+81,"Parker, Ortiz and Powell",Hospitality,San Francisco,West,,4.6,2019-02-26
+82,Spencer-Lee,Fuel,San Francisco,West,,6.8,2016-12-14
+83,"Bentley, Byrd and Orr",Professional Services,Chicago,Midwest,Smith-Bowen Group,2.2,2021-07-20
+84,"Carroll, Sullivan and Bass",Healthcare,Columbus,Midwest,"Snyder, Campos and Callahan Group",12.9,2010-11-10
+85,Mitchell-Jordan,Healthcare,Washington,Northeast,,1.9,2021-11-07
+86,"Lawson, Morris and Ramos",Healthcare,San Francisco,West,,3.0,2020-10-01
+87,"Lewis, Kennedy and Santana",Fuel,Phoenix,Southwest,"Guzman, Hoffman and Baldwin Group",13.4,2010-05-11
+88,"Jackson, Miller and Robertson",Professional Services,Washington,Northeast,,7.8,2015-12-15
+89,"Harvey, Davis and Crane",Electronics,New York,Northeast,,2.9,2020-11-07
+90,Chambers and Sons,Fuel,San Francisco,West,,13.1,2010-08-29
+91,Hernandez Inc,Electronics,Washington,Northeast,,8.8,2014-12-15
+92,Riggs PLC,Restaurant,New York,Northeast,,12.4,2011-05-11
+93,Gibson Ltd,Travel,Jacksonville,South,,9.9,2013-11-09
+94,"Lee, Horton and Snyder",Retail,Austin,South,"Harris, Collins and Carney Group",10.4,2013-05-10
+95,Hernandez Ltd,Professional Services,Indianapolis,Midwest,Wilkerson-Day Group,10.4,2013-05-10
+96,Stafford Inc,Travel,Los Angeles,West,Davis and Sons Group,10.5,2013-04-04
+97,Robinson-Brock,Electronics,Seattle,West,,12.2,2011-07-23
+98,"Holmes, Williams and Wright",Professional Services,Houston,South,,8.7,2015-01-21
+99,Bryant Group,Restaurant,Chicago,Midwest,,2.4,2021-05-08
+100,"Schmidt, Hansen and Stewart",Fuel,Indianapolis,Midwest,FastFuel Group,11.8,2011-12-16
+101,Salazar-Ball,Fuel,Phoenix,Southwest,FastFuel Group,4.0,2019-10-02
+102,"Simmons, Meadows and Griffin",Fuel,Fort Worth,South,FastFuel Group,11.2,2012-07-23
+103,Manning Group,Fuel,Chicago,Midwest,FastFuel Group,2.0,2021-10-01
+104,Green-Wright,Fuel,Indianapolis,Midwest,FastFuel Group,8.2,2015-07-23
+105,"Ramirez, Strickland and Washington",Fuel,Washington,Northeast,FastFuel Group,12.5,2011-04-05
+106,Hill Inc,Fuel,Fort Worth,South,FastFuel Group,13.5,2010-04-05
+107,"Mitchell, Nelson and Flores",Fuel,Indianapolis,Midwest,FastFuel Group,1.3,2022-06-14
+108,"Miller, Hernandez and Reyes",Travel,Dallas,South,Blake and Sons Group,14.4,2009-05-11
+109,Mccarthy Inc,Travel,Washington,Northeast,,1.7,2022-01-19
+110,Russell-Daniels,Travel,Phoenix,Southwest,,8.5,2015-04-04
+111,Brown-Wall,Healthcare,Houston,South,,11.9,2011-11-10
+112,Stein-Silva,Healthcare,Fort Worth,South,,1.3,2022-06-14
+113,"Smith, Gilmore and Johnston",Travel,Phoenix,Southwest,,5.6,2018-02-26
+114,Smith-Bell,Hospitality,Seattle,West,,9.5,2014-04-04
+115,Castaneda-Ashley,Fuel,Philadelphia,Northeast,,3.7,2020-01-20
+116,Medina-Navarro,Retail,Dallas,South,,2.6,2021-02-24
+117,"Hurst, Freeman and Nelson",Grocery,Phoenix,Southwest,,5.9,2017-11-08
+118,Johnson-Rogers,Grocery,New York,Northeast,,14.2,2009-07-23
+119,"Yates, Ramsey and Pittman",Entertainment,Fort Worth,South,Burton Ltd Group,7.5,2016-04-03
+120,Hooper PLC,Grocery,Jacksonville,South,,4.1,2019-08-27
+121,Meadows PLC,Fuel,Denver,Southwest,,4.2,2019-07-21
+122,"Alvarado, Miller and Patterson",Professional Services,Seattle,West,,11.6,2012-02-27
+123,White-Green,Fuel,Dallas,South,,9.0,2014-10-03
+124,Lewis-Murphy,Hospitality,Indianapolis,Midwest,,3.7,2020-01-20
+125,Ramirez-Bean,Professional Services,Philadelphia,Northeast,Carlson-Cruz Group,8.6,2015-02-26
+126,King-Miller,Healthcare,Charlotte,South,Gray-Mayo Group,14.9,2008-11-10
+127,Curry Inc,Entertainment,Phoenix,Southwest,,14.6,2009-02-27
+128,Walker-Jones,Hospitality,Seattle,West,Williams and Sons Group,7.1,2016-08-27
+129,"Williams, Johnson and Wright",Fuel,Chicago,Midwest,Dudley Group Group,14.4,2009-05-11
+130,Howell and Sons,Electronics,San Francisco,West,Morales-Jones Group,9.5,2014-04-04
+131,Wells Inc,Professional Services,San Diego,West,Wilkerson-Day Group,6.1,2017-08-27
+132,"Gould, Marshall and Scott",Healthcare,Seattle,West,,14.8,2008-12-16
+133,Jackson-Lawson,Hospitality,Indianapolis,Midwest,"Reid, Ferguson and Sanchez Group",9.2,2014-07-23
+134,"Higgins, Strickland and Martin",Travel,San Francisco,West,,14.3,2009-06-17
+135,Rodriguez-Johnson,Hospitality,Phoenix,Southwest,,14.0,2009-10-04
+136,Johnston-Odonnell,Healthcare,Seattle,West,"Ferrell, Rice and Maddox Group",11.8,2011-12-16
+137,Sanders-Espinoza,Restaurant,Seattle,West,Wilkerson-Day Group,6.0,2017-10-02
+138,Vargas Ltd,Restaurant,Indianapolis,Midwest,,6.5,2017-04-03
+139,Garcia LLC,Healthcare,New York,Northeast,"Gardner, Robinson and Lawrence Group",10.5,2013-04-04
+140,"Burke, Martinez and Riggs",Healthcare,Phoenix,Southwest,,8.6,2015-02-26
+141,Reed Group,Healthcare,Phoenix,Southwest,,12.8,2010-12-16
+142,"Wood, Hunter and Peterson",Healthcare,Indianapolis,Midwest,,2.4,2021-05-08
+143,Short-Garcia,Entertainment,Denver,Southwest,Hickman Ltd Group,11.5,2012-04-04
+144,Reid-Poole,Electronics,Los Angeles,West,Frazier Inc Group,7.4,2016-05-09
+145,"Hernandez, Thompson and Boyd",Retail,Chicago,Midwest,,8.5,2015-04-04
+146,"Nelson, Morton and Medina",Hospitality,Phoenix,Southwest,,7.5,2016-04-03
+147,Marshall-Petersen,Healthcare,Charlotte,South,,10.7,2013-01-21
+148,"Adams, Christian and Rivas",Fuel,Denver,Southwest,Frazier Inc Group,5.6,2018-02-26
+149,Ramirez Group,Retail,Los Angeles,West,Baker and Sons Group,1.8,2021-12-13
+150,Christensen PLC,Entertainment,Los Angeles,West,,7.0,2016-10-02
+151,"Barnett, Rogers and Snyder",Fuel,Charlotte,South,,10.6,2013-02-26
+152,White-Lewis,Professional Services,Houston,South,,7.6,2016-02-26
+153,Peterson-Beard,Electronics,Washington,Northeast,"Gardner, Robinson and Lawrence Group",7.6,2016-02-26
+154,"Beard, Peters and Black",Travel,Fort Worth,South,,7.2,2016-07-21
+155,Miller Ltd,Grocery,San Francisco,West,,3.1,2020-08-26
+156,Freeman-Chang,Electronics,Houston,South,,13.2,2010-07-23
+157,"Alvarez, Joseph and West",Professional Services,Seattle,West,Gray-Mayo Group,2.9,2020-11-07
+158,Davis and Sons,Grocery,San Jose,West,"Rodriguez, Figueroa and Sanchez Group",8.2,2015-07-23
+159,Holt-Torres,Professional Services,Jacksonville,South,,2.4,2021-05-08
+160,"Wood, Tran and Cooper",Hospitality,Fort Worth,South,Anderson Group Group,9.6,2014-02-26
+161,"Pierce, Bell and Chavez",Electronics,Charlotte,South,,13.9,2009-11-10
+162,King-Martinez,Professional Services,Indianapolis,Midwest,,1.7,2022-01-19
+163,Stewart Ltd,Entertainment,Chicago,Midwest,"Watts, Robinson and Nguyen Group",3.9,2019-11-08
+164,"Tapia, Vaughn and Lee",Electronics,Columbus,Midwest,,1.4,2022-05-09
+165,"Washington, Hardy and Bray",Fuel,Denver,Southwest,,12.7,2011-01-22
+166,"Carlson, Hooper and Wall",Retail,Austin,South,,8.2,2015-07-23
+167,Perez-White,Hospitality,Charlotte,South,,3.1,2020-08-26
+168,Erickson and Sons,Hospitality,San Antonio,South,,1.8,2021-12-13
+169,Williams-Brown,Hospitality,Jacksonville,South,,9.1,2014-08-28
+170,Terry-Martinez,Professional Services,Houston,South,,7.7,2016-01-21
+171,Garcia-Smith,Entertainment,Charlotte,South,,9.0,2014-10-03
+172,Harrison-Alexander,Electronics,San Diego,West,,2.3,2021-06-14
+173,Sheppard LLC,Healthcare,Dallas,South,Wilkerson-Day Group,9.3,2014-06-16
+174,Wilson-Jones,Grocery,Fort Worth,South,,3.9,2019-11-08
+175,Jones-Soto,Grocery,Philadelphia,Northeast,Davis and Sons Group,12.8,2010-12-16
+176,Hernandez PLC,Fuel,Dallas,South,Burton Ltd Group,6.5,2017-04-03
+177,Miller-Wright,Electronics,Houston,South,Doyle Ltd Group,8.9,2014-11-09
+178,"Duran, Obrien and Gibbs",Entertainment,Austin,South,Hickman Ltd Group,7.6,2016-02-26
+179,Rowe Group,Travel,Philadelphia,Northeast,,10.9,2012-11-09
+180,Kerr-Evans,Electronics,Austin,South,,12.7,2011-01-22
+181,"Branch, Torres and Oliver",Grocery,Phoenix,Southwest,,10.8,2012-12-15
+182,"Choi, Garcia and Farmer",Restaurant,Washington,Northeast,,8.2,2015-07-23
+183,"Clark, Guerrero and Moore",Professional Services,New York,Northeast,,1.8,2021-12-13
+184,Arnold and Sons,Entertainment,Austin,South,"Mcclain, Miller and Henderson Group",1.3,2022-06-14
+185,Ortiz Ltd,Electronics,Seattle,West,Perez Inc Group,8.5,2015-04-04
+186,"Harrison, Johnson and Roberts",Electronics,Los Angeles,West,,4.2,2019-07-21
+187,Warner-Gibson,Hospitality,Phoenix,Southwest,,9.1,2014-08-28
+188,"Hall, Baker and Moody",Fuel,Philadelphia,Northeast,,2.0,2021-10-01
+189,"Guerrero, Peck and Coleman",Retail,Phoenix,Southwest,Blair PLC Group,14.1,2009-08-29
+190,"Walker, Hernandez and Baker",Travel,Jacksonville,South,"Romero, Gonzalez and Brooks Group",11.0,2012-10-03
+191,Jones and Sons,Hospitality,San Diego,West,,12.1,2011-08-29
+192,Larson-Holloway,Healthcare,Chicago,Midwest,"Adams, Zuniga and Wong Group",10.1,2013-08-28
+193,Gonzales-Harrison,Hospitality,Houston,South,,6.2,2017-07-21
+194,Lyons-Bender,Electronics,San Diego,West,,6.0,2017-10-02
+195,"Fernandez, Kim and George",Grocery,Denver,Southwest,,6.9,2016-11-08
+196,Navarro-Munoz,Hospitality,New York,Northeast,Anderson Group Group,6.1,2017-08-27
+197,Davis Ltd,Healthcare,Columbus,Midwest,,9.6,2014-02-26
+198,"Matthews, Smith and Hubbard",Grocery,Denver,Southwest,,9.6,2014-02-26
+199,Johnston-Hines,Professional Services,San Diego,West,Williams and Sons Group,13.2,2010-07-23
+200,Ruiz Ltd,Restaurant,Chicago,Midwest,,8.2,2015-07-23
+201,Moon-White,Restaurant,Chicago,Midwest,,8.8,2014-12-15
+202,"Graham, Olsen and Costa",Restaurant,Chicago,Midwest,,11.4,2012-05-10
+203,Bailey-Cook,Restaurant,Chicago,Midwest,,11.8,2011-12-16
+204,"Garcia, Martin and Jenkins",Restaurant,Chicago,Midwest,,1.0,2022-10-01
+205,Roberts-Landry,Restaurant,Chicago,Midwest,,11.6,2012-02-27
+206,"Johnson, Miller and King",Restaurant,San Jose,West,Arnold Ltd Group,2.1,2021-08-26
+207,Cordova Group,Electronics,Houston,South,,7.8,2015-12-15
+208,"Bryan, Smith and Booth",Healthcare,San Diego,West,,6.4,2017-05-09
+209,Gutierrez-Lopez,Retail,Fort Worth,South,Rodriguez-Graham Group,8.4,2015-05-10
+210,Dean-Jimenez,Healthcare,Austin,South,,14.4,2009-05-11
+211,Wolf-Harris,Grocery,San Diego,West,Perez Inc Group,7.2,2016-07-21
+212,"Anderson, Roberts and Gilmore",Professional Services,Columbus,Midwest,,7.8,2015-12-15
+213,Martinez-Dudley,Electronics,New York,Northeast,,14.0,2009-10-04
+214,"Lloyd, Mckinney and Collins",Entertainment,Houston,South,,0.8,2022-12-13
+215,Tran Inc,Restaurant,San Jose,West,,9.3,2014-06-16
+216,Gay Inc,Electronics,Denver,Southwest,,13.7,2010-01-22
+217,Valentine-Holland,Healthcare,New York,Northeast,,12.7,2011-01-22
+218,Jimenez Ltd,Grocery,New York,Northeast,,9.1,2014-08-28
+219,Hicks-Hill,Hospitality,Charlotte,South,,3.5,2020-04-02
+220,Baird-Sanchez,Travel,Dallas,South,"Walter, Edwards and Rios Group",13.0,2010-10-04
+221,"Thomas, Lee and Greene",Retail,Philadelphia,Northeast,,7.5,2016-04-03
+222,"Suarez, Shields and Hill",Travel,Indianapolis,Midwest,"Walter, Edwards and Rios Group",7.7,2016-01-21
+223,Morgan-French,Healthcare,Philadelphia,Northeast,,5.8,2017-12-14
+224,Hoover-Campbell,Grocery,Austin,South,"Harris, Collins and Carney Group",10.1,2013-08-28
+225,Monroe-Carpenter,Restaurant,San Antonio,South,,2.7,2021-01-19
+226,"Burns, Hernandez and Ryan",Restaurant,San Diego,West,Carlson-Cruz Group,1.5,2022-04-02
+227,Cook-Hines,Electronics,Denver,Southwest,,3.5,2020-04-02
+228,Gibson-Morris,Electronics,Indianapolis,Midwest,,4.8,2018-12-14
+229,Pollard and Sons,Retail,Denver,Southwest,,6.9,2016-11-08
+230,"Reyes, Chase and Jenkins",Grocery,Seattle,West,,2.0,2021-10-01
+231,Garner-Thornton,Fuel,San Diego,West,,5.9,2017-11-08
+232,Hughes-Alvarado,Travel,San Jose,West,,6.4,2017-05-09
+233,"Pollard, Simpson and Johnson",Fuel,Seattle,West,,0.9,2022-11-07
+234,"Sanford, Rivera and Garcia",Electronics,Chicago,Midwest,"Henderson, Ramirez and Lewis Group",2.0,2021-10-01
+235,Garcia-Lozano,Healthcare,Charlotte,South,"Ferrell, Rice and Maddox Group",8.6,2015-02-26
+236,Bowen Group,Retail,San Diego,West,,14.8,2008-12-16
+237,"Booker, Jones and Harrington",Entertainment,Columbus,Midwest,,2.5,2021-04-02
+238,Morgan-Schwartz,Fuel,Columbus,Midwest,,0.7,2023-01-19
+239,"Miller, Murphy and Craig",Restaurant,San Antonio,South,"Adams, Zuniga and Wong Group",2.3,2021-06-14
+240,"James, Stewart and Higgins",Entertainment,Denver,Southwest,,10.7,2013-01-21
+241,Brennan-Johnson,Healthcare,New York,Northeast,George Group Group,12.5,2011-04-05
+242,Young Ltd,Fuel,Chicago,Midwest,"Reid, Ferguson and Sanchez Group",9.6,2014-02-26
+243,Bright-Francis,Hospitality,Philadelphia,Northeast,,4.8,2018-12-14
+244,Good-Hodges,Professional Services,Washington,Northeast,,2.5,2021-04-02
+245,"Brennan, Wallace and Benson",Electronics,San Jose,West,,7.3,2016-06-15
+246,Williams Inc,Retail,Indianapolis,Midwest,"Mcclure, Ward and Lee Group",11.3,2012-06-16
+247,Howard-Jordan,Hospitality,Los Angeles,West,"Watts, Robinson and Nguyen Group",12.6,2011-02-27
+248,Schmidt PLC,Professional Services,Houston,South,,3.0,2020-10-01
+249,"Sparks, Jackson and Miller",Grocery,Phoenix,Southwest,,2.2,2021-07-20
+250,Harvey-Allen,Hospitality,Houston,South,James Group Group,6.4,2017-05-09
+251,"Thomas, Murray and King",Professional Services,Philadelphia,Northeast,,2.0,2021-10-01
+252,Estrada-Nolan,Electronics,Philadelphia,Northeast,"Arroyo, Miller and Tucker Group",10.1,2013-08-28
+253,Santana-Byrd,Professional Services,San Antonio,South,,6.6,2017-02-25
+254,Jones LLC,Retail,Columbus,Midwest,Rodriguez LLC Group,3.2,2020-07-20
+255,"Evans, Hayden and Vaughn",Travel,Houston,South,Gray-Mayo Group,12.6,2011-02-27
+256,Bruce-Gonzalez,Entertainment,Austin,South,,4.8,2018-12-14
+257,Castaneda-Rodriguez,Grocery,Chicago,Midwest,,10.1,2013-08-28
+258,Armstrong-Andrews,Electronics,Phoenix,Southwest,Rodriguez-Graham Group,8.3,2015-06-16
+259,"Phillips, Spence and Barrett",Travel,Denver,Southwest,,12.8,2010-12-16
+260,Smith-Grimes,Retail,Fort Worth,South,,7.4,2016-05-09
+261,"Beltran, Lozano and Mcgee",Hospitality,Dallas,South,"Rodriguez, Figueroa and Sanchez Group",7.7,2016-01-21
+262,Parsons-Hall,Electronics,Austin,South,,4.1,2019-08-27
+263,Robinson-Lee,Retail,Chicago,Midwest,,10.6,2013-02-26
+264,Byrd-Le,Retail,Philadelphia,Northeast,Smith-Bowen Group,1.8,2021-12-13
+265,"Becker, Taylor and Davis",Restaurant,Indianapolis,Midwest,,7.0,2016-10-02
+266,"Lucas, Parker and Alexander",Electronics,Charlotte,South,,9.8,2013-12-15
+267,"Diaz, Anderson and Browning",Fuel,Indianapolis,Midwest,,9.7,2014-01-21
+268,Burgess-Thompson,Hospitality,San Diego,West,,9.9,2013-11-09
+269,Buchanan LLC,Professional Services,Dallas,South,Abbott-Munoz Group,9.0,2014-10-03
+270,"Shaw, Nelson and Martin",Fuel,Indianapolis,Midwest,,7.4,2016-05-09
+271,Coffey-Phillips,Healthcare,San Antonio,South,,3.3,2020-06-14
+272,Brock-Mcdonald,Retail,San Diego,West,,12.0,2011-10-04
+273,Taylor and Sons,Fuel,Washington,Northeast,,8.1,2015-08-28
+274,"Ramsey, Whitney and Coffey",Restaurant,San Antonio,South,,5.8,2017-12-14
+275,"Diaz, Gibbs and Smith",Retail,Jacksonville,South,,8.2,2015-07-23
+276,"Martinez, Richardson and Curry",Fuel,Jacksonville,South,Hickman Ltd Group,8.3,2015-06-16
+277,Richards-Carson,Retail,Fort Worth,South,,6.7,2017-01-20
+278,Rodriguez-Hall,Retail,Jacksonville,South,George Group Group,14.9,2008-11-10
+279,Harvey PLC,Retail,Fort Worth,South,,12.1,2011-08-29
+280,Herman-Walker,Entertainment,San Antonio,South,Hickman Ltd Group,6.3,2017-06-15
+281,Reid Group,Hospitality,Jacksonville,South,,4.4,2019-05-09
+282,"Turner, Ortiz and Taylor",Hospitality,San Jose,West,"Reid, Ferguson and Sanchez Group",11.2,2012-07-23
+283,Torres Group,Travel,Indianapolis,Midwest,,4.8,2018-12-14
+284,Davis PLC,Entertainment,Seattle,West,,9.0,2014-10-03
+285,Price LLC,Restaurant,San Francisco,West,,1.2,2022-07-20
+286,"Avery, Horton and Fernandez",Restaurant,Charlotte,South,Davis and Sons Group,3.7,2020-01-20
+287,"Newton, Moore and Perry",Healthcare,Phoenix,Southwest,"Gardner, Robinson and Lawrence Group",14.7,2009-01-22
+288,Bass PLC,Electronics,Columbus,Midwest,,9.4,2014-05-10
+289,Crosby-Ramirez,Entertainment,San Antonio,South,"Henderson, Ramirez and Lewis Group",14.2,2009-07-23
+290,"Wood, Ramos and Sampson",Professional Services,Denver,Southwest,Wilkerson-Day Group,1.0,2022-10-01
+291,Garcia-Jennings,Electronics,Chicago,Midwest,"Guzman, Hoffman and Baldwin Group",9.6,2014-02-26
+292,"Winters, Newman and Brown",Hospitality,Indianapolis,Midwest,,14.9,2008-11-10
+293,Lopez-Martinez,Travel,San Jose,West,,10.6,2013-02-26
+294,Davis-Lewis,Travel,Chicago,Midwest,Anderson Group Group,1.0,2022-10-01
+295,"Harper, Smith and Buchanan",Healthcare,Houston,South,Ryan PLC Group,6.2,2017-07-21
+296,Zhang PLC,Travel,Dallas,South,,13.0,2010-10-04
+297,Jones PLC,Electronics,Dallas,South,,11.2,2012-07-23
+298,Willis and Sons,Electronics,Los Angeles,West,"Baker, Mason and White Group",4.3,2019-06-15
+299,Schroeder-Kramer,Professional Services,Phoenix,Southwest,,14.5,2009-04-05
+300,"Smith, Garrison and Thomas",Healthcare,San Francisco,West,,1.4,2022-05-09
+301,Fernandez and Sons,Travel,Fort Worth,South,,5.5,2018-04-03
+302,Guerrero Inc,Electronics,Los Angeles,West,,4.4,2019-05-09
+303,Smith and Sons,Electronics,Philadelphia,Northeast,,10.0,2013-10-03
+304,"Morris, Thompson and Williams",Hospitality,New York,Northeast,"Arroyo, Miller and Tucker Group",10.6,2013-02-26
+305,"Fisher, Wilson and Brown",Entertainment,San Jose,West,,11.4,2012-05-10
+306,Strickland-Palmer,Healthcare,San Antonio,South,,13.1,2010-08-29
+307,Hayes and Sons,Fuel,Denver,Southwest,Carlson-Cruz Group,5.4,2018-05-09
+308,"Williams, Logan and Camacho",Retail,San Antonio,South,,12.6,2011-02-27
+309,"Turner, Schneider and Johnson",Fuel,Jacksonville,South,Arnold Ltd Group,9.4,2014-05-10
+310,Boone-Simmons,Hospitality,Indianapolis,Midwest,,4.3,2019-06-15
+311,Henry Group,Travel,Fort Worth,South,"Adams, Zuniga and Wong Group",11.5,2012-04-04
+312,Lam LLC,Hospitality,San Jose,West,,5.5,2018-04-03
+313,"Hernandez, Martinez and Weber",Healthcare,Charlotte,South,Davis and Sons Group,3.0,2020-10-01
+314,"Kelley, Nguyen and Vang",Retail,Houston,South,,2.9,2020-11-07
+315,"Phillips, Wagner and Jordan",Grocery,Jacksonville,South,,7.4,2016-05-09
+316,"Wilson, Pena and Rich",Retail,Seattle,West,,10.3,2013-06-16
+317,"Le, Lewis and Hayes",Entertainment,Jacksonville,South,,9.1,2014-08-28
+318,Gutierrez Group,Fuel,Jacksonville,South,"Ferrell, Rice and Maddox Group",5.2,2018-07-21
+319,Perry-Davis,Travel,Charlotte,South,Perez Inc Group,7.0,2016-10-02
+320,Edwards-Scott,Retail,Columbus,Midwest,,6.7,2017-01-20
+321,Mcdaniel Group,Hospitality,Fort Worth,South,"Ross, Robinson and Bright Group",10.6,2013-02-26
+322,Davis Inc,Retail,Washington,Northeast,,3.8,2019-12-14
+323,Reynolds Ltd,Travel,Austin,South,,2.7,2021-01-19
+324,"Watson, Anderson and Brown",Healthcare,Charlotte,South,,6.3,2017-06-15
+325,"Hoffman, Santiago and Jenkins",Travel,Phoenix,Southwest,"Baker, Mason and White Group",3.8,2019-12-14
+326,"Pugh, Henderson and Moon",Restaurant,Chicago,Midwest,,5.8,2017-12-14
+327,Schmitt PLC,Electronics,Charlotte,South,"Walter, Edwards and Rios Group",13.1,2010-08-29
+328,Bell-Lane,Retail,San Diego,West,,9.6,2014-02-26
+329,Moore Group,Healthcare,Jacksonville,South,,14.5,2009-04-05
+330,Boone LLC,Hospitality,Washington,Northeast,Blake and Sons Group,2.3,2021-06-14
+331,"Richardson, Farmer and Andrews",Entertainment,Jacksonville,South,,3.4,2020-05-08
+332,Bruce-Villegas,Electronics,Los Angeles,West,,14.8,2008-12-16
+333,"Austin, Day and Johnson",Electronics,Indianapolis,Midwest,,10.4,2013-05-10
+334,"Gallegos, Adams and White",Grocery,Seattle,West,"Arroyo, Miller and Tucker Group",11.5,2012-04-04
+335,"Farmer, Dorsey and Bell",Hospitality,Philadelphia,Northeast,"Watts, Robinson and Nguyen Group",11.4,2012-05-10
+336,Kane PLC,Restaurant,Dallas,South,Spence PLC Group,2.6,2021-02-24
+337,"Morales, Thomas and Schultz",Grocery,San Francisco,West,,10.7,2013-01-21
+338,Davis PLC,Electronics,San Jose,West,"Ferrell, Rice and Maddox Group",8.0,2015-10-03
+339,Bennett Group,Hospitality,New York,Northeast,"Ferrell, Rice and Maddox Group",12.5,2011-04-05
+340,Moore-Collins,Retail,San Antonio,South,,3.4,2020-05-08
+341,Frank-Bradley,Retail,Seattle,West,Allen-Allen Group,2.0,2021-10-01
+342,Ware and Sons,Travel,Austin,South,,9.1,2014-08-28
+343,Webster Inc,Fuel,Dallas,South,,4.8,2018-12-14
+344,"Miller, Ramos and Coleman",Electronics,Jacksonville,South,,9.6,2014-02-26
+345,"Ramos, Nelson and Fischer",Fuel,Washington,Northeast,,8.5,2015-04-04
+346,Reed Inc,Professional Services,Philadelphia,Northeast,,7.5,2016-04-03
+347,Gregory-Watkins,Professional Services,Dallas,South,,11.0,2012-10-03
+348,"Estrada, Williams and Foster",Fuel,Jacksonville,South,,7.4,2016-05-09
+349,"Brown, Harris and Dougherty",Professional Services,Denver,Southwest,Spence PLC Group,5.4,2018-05-09
+350,Duran LLC,Fuel,San Diego,West,,1.1,2022-08-26
+351,Wilson-Jimenez,Retail,Jacksonville,South,"Adams, Zuniga and Wong Group",3.8,2019-12-14
+352,Thompson-James,Travel,Dallas,South,"Dyer, Potter and Mack Group",3.7,2020-01-20
+353,"Hall, Hansen and Barnett",Restaurant,Charlotte,South,,3.0,2020-10-01
+354,Jones-Hensley,Healthcare,Washington,Northeast,Allen-Allen Group,11.6,2012-02-27
+355,Graham Group,Restaurant,Seattle,West,,9.0,2014-10-03
+356,Atkins PLC,Entertainment,Los Angeles,West,,13.6,2010-02-27
+357,Berry-Mckinney,Fuel,Philadelphia,Northeast,Dudley Group Group,6.1,2017-08-27
+358,Roberts-Sullivan,Electronics,Seattle,West,,3.9,2019-11-08
+359,Jackson-Meza,Entertainment,San Diego,West,,3.1,2020-08-26
+360,Collier-Gillespie,Retail,Jacksonville,South,"Guzman, Hoffman and Baldwin Group",1.5,2022-04-02
+361,Kim Inc,Grocery,Dallas,South,,7.0,2016-10-02
+362,Graham Group,Hospitality,San Antonio,South,,1.9,2021-11-07
+363,"Miller, Harrell and Reese",Hospitality,Indianapolis,Midwest,,4.2,2019-07-21
+364,Cook and Sons,Healthcare,Phoenix,Southwest,"Romero, Gonzalez and Brooks Group",9.2,2014-07-23
+365,Dixon Inc,Fuel,Houston,South,,3.9,2019-11-08
+366,"Hicks, Bullock and Bailey",Grocery,Chicago,Midwest,Abbott-Munoz Group,7.0,2016-10-02
+367,"Mullen, Brewer and Hernandez",Hospitality,Jacksonville,South,,4.1,2019-08-27
+368,Thomas and Sons,Restaurant,Austin,South,"Reid, Ferguson and Sanchez Group",6.0,2017-10-02
+369,Morrison Ltd,Healthcare,Austin,South,Dudley Group Group,7.4,2016-05-09
+370,Thompson Ltd,Electronics,Indianapolis,Midwest,,9.0,2014-10-03
+371,Marshall-Elliott,Grocery,Charlotte,South,"Reid, Ferguson and Sanchez Group",4.4,2019-05-09
+372,"Cole, Glass and Cunningham",Hospitality,Los Angeles,West,,14.1,2009-08-29
+373,"Downs, Morris and Maddox",Fuel,New York,Northeast,Smith-Bowen Group,14.0,2009-10-04
+374,Hernandez-Jones,Restaurant,Phoenix,Southwest,,1.1,2022-08-26
+375,Welch-Hogan,Entertainment,San Jose,West,,14.5,2009-04-05
+376,"Brown, Romero and Collins",Retail,Austin,South,"Ross, Robinson and Bright Group",13.1,2010-08-29
+377,Johnson-Wood,Retail,Charlotte,South,"Baker, Mason and White Group",2.5,2021-04-02
+378,Jones-Lin,Entertainment,Fort Worth,South,,3.4,2020-05-08
+379,Gilbert PLC,Retail,San Diego,West,"Henderson, Ramirez and Lewis Group",2.8,2020-12-14
+380,Ford-Spencer,Healthcare,Philadelphia,Northeast,,4.2,2019-07-21
+381,"Huang, Cole and Pacheco",Fuel,New York,Northeast,,5.9,2017-11-08
+382,"Lopez, Jacobs and Mason",Retail,Seattle,West,,13.1,2010-08-29
+383,Hayes LLC,Restaurant,San Diego,West,"Henderson, Ramirez and Lewis Group",12.0,2011-10-04
+384,"Miller, Lucas and Williams",Restaurant,Houston,South,,14.1,2009-08-29
+385,"Kim, Gonzales and Mills",Healthcare,Columbus,Midwest,,8.9,2014-11-09
+386,Cox LLC,Retail,Los Angeles,West,,5.1,2018-08-27
+387,Ortiz-Morgan,Hospitality,New York,Northeast,,11.4,2012-05-10
+388,"Williams, Mccoy and Cook",Hospitality,Fort Worth,South,Frazier Inc Group,6.4,2017-05-09
+389,Davis-Gregory,Entertainment,Columbus,Midwest,,12.2,2011-07-23
+390,King-York,Hospitality,Seattle,West,"Arroyo, Miller and Tucker Group",12.4,2011-05-11
+391,"Marks, Cook and Aguilar",Hospitality,San Antonio,South,"Rodriguez, Figueroa and Sanchez Group",5.8,2017-12-14
+392,Rangel LLC,Healthcare,San Antonio,South,"Ross, Robinson and Bright Group",7.0,2016-10-02
+393,"Hale, Myers and Larson",Restaurant,Indianapolis,Midwest,,0.7,2023-01-19
+394,Collins Group,Travel,Austin,South,"Mcclure, Ward and Lee Group",9.5,2014-04-04
+395,"Conner, Li and Santiago",Hospitality,Columbus,Midwest,Wilkerson-Day Group,14.3,2009-06-17
+396,"Osborn, Gaines and Davis",Grocery,Los Angeles,West,,12.3,2011-06-17
+397,"Henderson, Cox and Cox",Healthcare,Jacksonville,South,Smith-Bowen Group,4.1,2019-08-27
+398,Bean LLC,Fuel,Houston,South,,10.9,2012-11-09
+399,Lee-Cooke,Healthcare,Austin,South,Galloway-Wyatt Group,9.9,2013-11-09
+400,Jones Inc,Hospitality,Charlotte,South,,6.0,2017-10-02
+401,"Wise, Conley and Stephenson",Healthcare,Houston,South,,3.3,2020-06-14
+402,Stanley PLC,Entertainment,Columbus,Midwest,Spence PLC Group,5.0,2018-10-02
+403,Harper and Sons,Travel,Charlotte,South,,1.8,2021-12-13
+404,White Ltd,Retail,Seattle,West,Davis and Sons Group,12.4,2011-05-11
+405,"Lamb, Martin and Kim",Fuel,Austin,South,,3.1,2020-08-26
+406,Diaz-Ball,Fuel,Fort Worth,South,Hickman Ltd Group,8.7,2015-01-21
+407,Bishop-Goodwin,Electronics,San Jose,West,,7.5,2016-04-03
+408,Young-Allen,Grocery,San Antonio,South,,1.1,2022-08-26
+409,Mckee-Lee,Fuel,San Jose,West,,8.0,2015-10-03
+410,"Valentine, Joyce and Murray",Professional Services,Dallas,South,Abbott-Munoz Group,3.0,2020-10-01
+411,Strickland-Shaw,Electronics,San Jose,West,,8.6,2015-02-26
+412,Burch-Montoya,Entertainment,Phoenix,Southwest,"Adams, Zuniga and Wong Group",12.8,2010-12-16
+413,"Taylor, Wright and Davidson",Professional Services,San Antonio,South,,11.6,2012-02-27
+414,Spencer-Garcia,Restaurant,San Jose,West,,2.7,2021-01-19
+415,"Rosales, Mitchell and Hines",Travel,Indianapolis,Midwest,,7.4,2016-05-09
+416,Cole-Palmer,Grocery,Indianapolis,Midwest,Williams and Sons Group,3.8,2019-12-14
+417,Davis-Lozano,Professional Services,San Antonio,South,Arnold Ltd Group,9.1,2014-08-28
+418,Wilkerson-Arias,Travel,Los Angeles,West,,10.3,2013-06-16
+419,Brown-Shaw,Grocery,San Jose,West,,11.0,2012-10-03
+420,Hughes Inc,Fuel,Austin,South,Spence PLC Group,2.0,2021-10-01
+421,Walker-Flores,Professional Services,Philadelphia,Northeast,,11.7,2012-01-22
+422,Combs Ltd,Electronics,Houston,South,,9.1,2014-08-28
+423,Moody-Taylor,Electronics,Dallas,South,"Gardner, Robinson and Lawrence Group",5.6,2018-02-26
+424,Lowery-Kennedy,Restaurant,Houston,South,,10.2,2013-07-23
+425,Blake Group,Healthcare,Jacksonville,South,"Henderson, Ramirez and Lewis Group",9.9,2013-11-09
+426,Gilbert-Bullock,Professional Services,Jacksonville,South,"Gardner, Robinson and Lawrence Group",1.3,2022-06-14
+427,Scott and Sons,Retail,Jacksonville,South,"Dyer, Potter and Mack Group",11.1,2012-08-28
+428,"Bentley, Lynch and Henderson",Electronics,Washington,Northeast,,1.8,2021-12-13
+429,Young-Martinez,Hospitality,Phoenix,Southwest,George Group Group,1.9,2021-11-07
+430,Barnes PLC,Restaurant,San Francisco,West,"Henderson, Ramirez and Lewis Group",12.0,2011-10-04
+431,Brown-Copeland,Fuel,San Francisco,West,"Romero, Gonzalez and Brooks Group",0.8,2022-12-13
+432,Carlson-Smith,Electronics,Washington,Northeast,,4.0,2019-10-02
+433,"Andrews, Higgins and Carter",Grocery,Washington,Northeast,"Henderson, Ramirez and Lewis Group",11.5,2012-04-04
+434,Mendez and Sons,Healthcare,New York,Northeast,,11.8,2011-12-16
+435,"Butler, Beck and Miller",Entertainment,Los Angeles,West,"Harris, Collins and Carney Group",5.5,2018-04-03
+436,Jones-Fox,Healthcare,Dallas,South,Garcia-James Group,7.9,2015-11-09
+437,"Hartman, Romero and Smith",Entertainment,Chicago,Midwest,Wilkerson-Day Group,9.2,2014-07-23
+438,Williams-Hughes,Travel,Philadelphia,Northeast,,8.8,2014-12-15
+439,King-Smith,Entertainment,Phoenix,Southwest,Anderson Group Group,6.3,2017-06-15
+440,Cooper Ltd,Retail,Philadelphia,Northeast,,10.3,2013-06-16
+441,"Fuller, Ingram and Moss",Grocery,San Jose,West,Blake and Sons Group,4.9,2018-11-08
+442,Anderson-Bell,Healthcare,Dallas,South,Baker and Sons Group,10.6,2013-02-26
+443,Li-Thompson,Entertainment,Seattle,West,,14.0,2009-10-04
+444,"Marshall, Dominguez and Welch",Hospitality,Los Angeles,West,,5.0,2018-10-02
+445,Brown Group,Restaurant,Columbus,Midwest,,11.6,2012-02-27
+446,Carter Inc,Travel,Washington,Northeast,,12.5,2011-04-05
+447,Blackwell LLC,Healthcare,Fort Worth,South,Gray-Mayo Group,0.9,2022-11-07
+448,Robertson-Hays,Entertainment,Charlotte,South,Dudley Group Group,14.5,2009-04-05
+449,"Kennedy, Johnson and Lucas",Entertainment,Fort Worth,South,,2.0,2021-10-01
+450,Kelly-Norman,Retail,Philadelphia,Northeast,,2.7,2021-01-19
+451,"Rivera, Martinez and Richardson",Healthcare,Denver,Southwest,,7.2,2016-07-21
+452,Paul-Kline,Retail,Los Angeles,West,Williams and Sons Group,14.8,2008-12-16
+453,Morgan-Lopez,Hospitality,Denver,Southwest,Garcia-James Group,11.8,2011-12-16
+454,"Jimenez, Glass and Stone",Travel,Columbus,Midwest,Galloway-Wyatt Group,1.4,2022-05-09
+455,Acosta Inc,Entertainment,Houston,South,,12.3,2011-06-17
+456,Morrison-Short,Entertainment,San Antonio,South,Rodriguez-Graham Group,8.1,2015-08-28
+457,"Carter, Garcia and Murphy",Retail,San Antonio,South,"Dyer, Potter and Mack Group",5.8,2017-12-14
+458,Parker-Morrison,Fuel,Columbus,Midwest,,11.7,2012-01-22
+459,Jackson-Wallace,Healthcare,Los Angeles,West,Williams and Sons Group,8.9,2014-11-09
+460,Williams-Berg,Healthcare,San Antonio,South,Gray-Mayo Group,12.6,2011-02-27
+461,Mendez-Graham,Healthcare,Fort Worth,South,Smith-Bowen Group,14.4,2009-05-11
+462,"Whitney, Gould and Jones",Restaurant,Houston,South,Blair PLC Group,7.1,2016-08-27
+463,"Sullivan, Palmer and Brady",Fuel,Washington,Northeast,Davis and Sons Group,13.0,2010-10-04
+464,Cisneros and Sons,Retail,San Francisco,West,,6.0,2017-10-02
+465,"Gregory, Kim and Martinez",Grocery,Washington,Northeast,George Group Group,13.4,2010-05-11
+466,Osborne LLC,Restaurant,Dallas,South,,14.2,2009-07-23
+467,Reyes-Bradley,Restaurant,Los Angeles,West,,1.1,2022-08-26
+468,"Hernandez, Cole and Watson",Healthcare,San Diego,West,,7.7,2016-01-21
+469,Hines-Berry,Grocery,San Diego,West,,9.4,2014-05-10
+470,"Richardson, Edwards and Ramirez",Travel,Fort Worth,South,Allen-Allen Group,7.9,2015-11-09
+471,Johnson and Sons,Electronics,Phoenix,Southwest,Perez Inc Group,10.9,2012-11-09
+472,Holmes-Mcintyre,Travel,Fort Worth,South,Morales-Jones Group,1.0,2022-10-01
+473,Green LLC,Healthcare,Washington,Northeast,Burton Ltd Group,4.8,2018-12-14
+474,"Griffin, Davies and Mitchell",Entertainment,Austin,South,,10.1,2013-08-28
+475,Gonzalez-Taylor,Professional Services,Denver,Southwest,"Snyder, Campos and Callahan Group",12.5,2011-04-05
+476,Hayes Ltd,Professional Services,San Diego,West,Carlson-Cruz Group,8.0,2015-10-03
+477,Osborn-Cochran,Electronics,Indianapolis,Midwest,,9.6,2014-02-26
+478,Contreras-Mckinney,Retail,Los Angeles,West,Rodriguez-Graham Group,9.4,2014-05-10
+479,"Daniels, Vance and York",Hospitality,Columbus,Midwest,,8.2,2015-07-23
+480,"Mckinney, Graves and Thompson",Professional Services,Seattle,West,,4.7,2019-01-20
+481,Hicks-Martinez,Retail,San Diego,West,,8.9,2014-11-09
+482,Conner and Sons,Retail,San Francisco,West,Williams and Sons Group,2.1,2021-08-26
+483,Johnson-Spencer,Fuel,Seattle,West,"Romero, Gonzalez and Brooks Group",6.8,2016-12-14
+484,Mcdonald-Bird,Grocery,Seattle,West,"Reid, Ferguson and Sanchez Group",2.3,2021-06-14
+485,Salazar Inc,Restaurant,Denver,Southwest,,4.6,2019-02-26
+486,Parker Ltd,Restaurant,San Antonio,South,Anderson Group Group,4.2,2019-07-21
+487,"Mendoza, Jenkins and Ortiz",Healthcare,Fort Worth,South,,11.3,2012-06-16
+488,"Jones, Compton and Day",Fuel,Columbus,Midwest,Carlson-Cruz Group,3.1,2020-08-26
+489,Owens-Holmes,Hospitality,Austin,South,,1.1,2022-08-26
+490,Humphrey PLC,Retail,Seattle,West,Williams and Sons Group,1.8,2021-12-13
+491,"Matthews, Saunders and Anderson",Travel,Seattle,West,Allen-Allen Group,11.1,2012-08-28
+492,"Bartlett, Brown and Martinez",Healthcare,Austin,South,,7.9,2015-11-09
+493,Torres and Sons,Fuel,Denver,Southwest,,13.2,2010-07-23
+494,Donovan-Perez,Hospitality,Charlotte,South,,2.8,2020-12-14
+495,"Jacobson, Singleton and King",Professional Services,San Jose,West,"Rodriguez, Figueroa and Sanchez Group",11.3,2012-06-16
+496,"Huber, Hill and Weber",Restaurant,Chicago,Midwest,"Dyer, Potter and Mack Group",6.3,2017-06-15
+497,"Ferguson, Shaw and Jackson",Retail,San Jose,West,Abbott-Munoz Group,11.3,2012-06-16
+498,"Moore, Hopkins and Le",Fuel,Columbus,Midwest,,10.5,2013-04-04
+499,"Morgan, Bradshaw and Williams",Hospitality,San Francisco,West,,0.6,2023-02-24
+500,Miller Ltd,Restaurant,Jacksonville,South,Frazier Inc Group,11.5,2012-04-04
